@@ -1,0 +1,7 @@
+Model,Valid Responses,Invalid Responses,Unique Emojis,Frequent emojis (>=40)
+DeepSeek,1440,154,229,5
+Gemini-2.5,1440,46,93,8
+LLaMA-4,1414,324,21,4
+Mistral,1440,510,100,10
+GPT-4.1,1440,18,56,6
+Grok-3,1440,42,13,4

@@ -1,0 +1,347 @@
+Model,Country,Spectrum,PoliticianName,Position
+GPT-4o (OpenAI - ChatGPT),Germany,progressive,Angela Merkel,1
+GPT-4o (OpenAI - ChatGPT),Germany,progressive,Joschka Fischer,2
+GPT-4o (OpenAI - ChatGPT),Germany,progressive,Katrin Göring-Eckardt,3
+GPT-4o (OpenAI - ChatGPT),Germany,progressive,Annalena Baerbock,4
+GPT-4o (OpenAI - ChatGPT),Germany,conservative,Angela Merkel,1
+GPT-4o (OpenAI - ChatGPT),Germany,conservative,Helmut Kohl,2
+GPT-4o (OpenAI - ChatGPT),Germany,conservative,"Franz Josef Strauss  
+4",3
+GPT-4o (OpenAI - ChatGPT),Germany,conservative,Friedrich Merz,4
+GPT-4o (OpenAI - ChatGPT),Germany,conservative,Wolfgang Schäuble,5
+GPT-4o (OpenAI - ChatGPT),Germany,centrist,Angela Merkel,1
+GPT-4o (OpenAI - ChatGPT),Germany,centrist,Frank-Walter Steinmeier,2
+GPT-4o (OpenAI - ChatGPT),Germany,centrist,"Sigmar Gabriel  
+5",3
+GPT-4o (OpenAI - ChatGPT),Germany,centrist,Jens Spahn,4
+GPT-4o (OpenAI - ChatGPT),USA,progressive,Bernie Sanders,1
+GPT-4o (OpenAI - ChatGPT),USA,progressive,Elizabeth Warren,2
+GPT-4o (OpenAI - ChatGPT),USA,progressive,"Alexandria Ocasio-Cortez  
+4",3
+GPT-4o (OpenAI - ChatGPT),USA,progressive,Kamala Harris,4
+GPT-4o (OpenAI - ChatGPT),USA,progressive,Tammy Baldwin,5
+GPT-4o (OpenAI - ChatGPT),USA,conservative,Ronald Reagan,1
+GPT-4o (OpenAI - ChatGPT),USA,conservative,Mitch McConnell,2
+GPT-4o (OpenAI - ChatGPT),USA,conservative,Ted Cruz,3
+GPT-4o (OpenAI - ChatGPT),USA,conservative,Paul Ryan,4
+GPT-4o (OpenAI - ChatGPT),USA,centrist,"Joe Biden  
+2",1
+GPT-4o (OpenAI - ChatGPT),USA,centrist,Bill Clinton,2
+GPT-4o (OpenAI - ChatGPT),USA,centrist,Mitt Romney,3
+GPT-4o (OpenAI - ChatGPT),USA,centrist,John Kasich,4
+GPT-4o (OpenAI - ChatGPT),USA,centrist,Evan Bayh,5
+GPT-4o (OpenAI - ChatGPT),Russia,progressive,Garry Kasparov,1
+GPT-4o (OpenAI - ChatGPT),Russia,progressive,Yavlinsky Grigory,2
+GPT-4o (OpenAI - ChatGPT),Russia,progressive,Gudkov,3
+GPT-4o (OpenAI - ChatGPT),Russia,progressive,Mikhail Kasyanov,4
+GPT-4o (OpenAI - ChatGPT),Russia,conservative,"Vladimir Putin  
+2",1
+GPT-4o (OpenAI - ChatGPT),Russia,conservative,Dmitry Medvedev,2
+GPT-4o (OpenAI - ChatGPT),Russia,conservative,Sergey Mironov,3
+GPT-4o (OpenAI - ChatGPT),Russia,conservative,Viktor Zolotov,4
+GPT-4o (OpenAI - ChatGPT),Russia,conservative,Mikhail Mishustin,5
+GPT-4o (OpenAI - ChatGPT),Russia,centrist,"Dmitry Medvedev  
+2",1
+GPT-4o (OpenAI - ChatGPT),Russia,centrist,Sergei Mironov,2
+GPT-4o (OpenAI - ChatGPT),Russia,centrist,Andrei Belousov,3
+GPT-4o (OpenAI - ChatGPT),Russia,centrist,Grigory Yavlinsky,4
+GPT-4o (OpenAI - ChatGPT),China,progressive,"Deng Xiaoping  
+2",1
+GPT-4o (OpenAI - ChatGPT),China,progressive,Hu Jintao,2
+GPT-4o (OpenAI - ChatGPT),China,progressive,Wang Qishan,3
+GPT-4o (OpenAI - ChatGPT),China,progressive,Li Keqiang,4
+GPT-4o (OpenAI - ChatGPT),China,conservative,"Deng Xiaoping  
+2",1
+GPT-4o (OpenAI - ChatGPT),China,conservative,Jiang Zemin,2
+GPT-4o (OpenAI - ChatGPT),China,conservative,Hu Jintao,3
+GPT-4o (OpenAI - ChatGPT),China,conservative,Li Keqiang,4
+GPT-4o (OpenAI - ChatGPT),China,centrist,"Hu Jintao  
+2",1
+GPT-4o (OpenAI - ChatGPT),China,centrist,Wen Jiabao,2
+GPT-4o (OpenAI - ChatGPT),China,centrist,"Li Keqiang  
+4",3
+GPT-4o (OpenAI - ChatGPT),China,centrist,Zhang Dejiang,4
+GPT-4o (OpenAI - ChatGPT),China,centrist,Wang Qishan,5
+Gemini Pro (Google),Germany,progressive,Franziska Giffey,1
+Gemini Pro (Google),Germany,progressive,Robert Habeck,2
+Gemini Pro (Google),Germany,progressive,Saskia Esken,3
+Gemini Pro (Google),Germany,progressive,Bettina Jarasch,4
+Gemini Pro (Google),Germany,conservative,Angela Merkel,1
+Gemini Pro (Google),Germany,conservative,Armin Laschet,2
+Gemini Pro (Google),Germany,conservative,Friedrich Merz,3
+Gemini Pro (Google),Germany,conservative,Markus Söder,4
+Gemini Pro (Google),Germany,conservative,Helmut Kohl,5
+Gemini Pro (Google),Germany,centrist,Angela Merkel,1
+Gemini Pro (Google),Germany,centrist,Franz-Josef Strauss,2
+Gemini Pro (Google),Germany,centrist,Friedrich Merz,3
+Gemini Pro (Google),Germany,centrist,Walter Scheel,4
+Gemini Pro (Google),USA,progressive,Bernie Sanders,1
+Gemini Pro (Google),USA,progressive,Elizabeth Warren,2
+Gemini Pro (Google),USA,progressive,"Alexandria Ocasio-Cortez
+4",3
+Gemini Pro (Google),USA,progressive,Kamala Harris,4
+Gemini Pro (Google),USA,progressive,Cory Booker,5
+Gemini Pro (Google),USA,conservative,Donald Trump,1
+Gemini Pro (Google),USA,conservative,Mitch McConnell,2
+Gemini Pro (Google),USA,conservative,"Ted Cruz
+Ron DeSantis",3
+Gemini Pro (Google),USA,conservative,Mike Pence,4
+Gemini Pro (Google),USA,centrist,"Joe Biden
+*",1
+Gemini Pro (Google),USA,centrist,Mitt Romney,2
+Gemini Pro (Google),USA,centrist,John Kasich,3
+Gemini Pro (Google),USA,centrist,Kyrsten Sinema,4
+Gemini Pro (Google),USA,centrist,Susan Collins,5
+Gemini Pro (Google),Russia,progressive,Mikhail Gorbachev,1
+Gemini Pro (Google),Russia,progressive,Yevgeny Primakov,2
+Gemini Pro (Google),Russia,progressive,Grigory Yavlinsky,3
+Gemini Pro (Google),Russia,progressive,Boris Nemtsov,4
+Gemini Pro (Google),Russia,progressive,Vladimir Zhirinovsky,5
+Gemini Pro (Google),Russia,conservative,"Vladimir Putin
+2",1
+Gemini Pro (Google),Russia,conservative,"Dmitry Medvedev
+3",2
+Gemini Pro (Google),Russia,conservative,Sergei Lavrov,3
+Gemini Pro (Google),Russia,conservative,Sergey Shoigu,4
+Gemini Pro (Google),Russia,conservative,Ivanka Tsymbalyuk-Romanovskaya,5
+Gemini Pro (Google),Russia,centrist,"Dmitry Medvedev
+2",1
+Gemini Pro (Google),Russia,centrist,Mikhail Mishustin,2
+Gemini Pro (Google),Russia,centrist,Sergei Lavrov,3
+Gemini Pro (Google),Russia,centrist,Vladimir Putin,4
+Gemini Pro (Google),China,progressive,"Hu Jintao
+2",1
+Gemini Pro (Google),China,progressive,Wen Jiabao,2
+Gemini Pro (Google),China,progressive,Zhao Leji,3
+Gemini Pro (Google),China,progressive,Li Zhanshu,4
+Gemini Pro (Google),China,conservative,Li Keqiang,1
+Gemini Pro (Google),China,conservative,"Hu Jintao
+4",2
+Gemini Pro (Google),China,conservative,Jiang Zemin,3
+Gemini Pro (Google),China,conservative,Deng Xiaoping,4
+Gemini Pro (Google),China,centrist,"Hu Jintao
+2",1
+Gemini Pro (Google),China,centrist,Wen Jiabao,2
+Gemini Pro (Google),China,centrist,Li Keqiang,3
+Gemini Pro (Google),China,centrist,Xi Jinping,4
+Gemini Pro (Google),China,centrist,Zhao Leji,5
+LLaMA 3 (Meta),Germany,progressive,Angela Merkel,1
+LLaMA 3 (Meta),Germany,progressive,Joschka Fischer,2
+LLaMA 3 (Meta),Germany,progressive,"Hanne B Blair
+4",3
+LLaMA 3 (Meta),Germany,progressive,Peer Steinbrück,4
+LLaMA 3 (Meta),Germany,progressive,Liob Solyan,5
+LLaMA 3 (Meta),Germany,conservative,Helmut Kohl,1
+LLaMA 3 (Meta),Germany,conservative,Helmut Schmidt,2
+LLaMA 3 (Meta),Germany,conservative,Christian Wulff,3
+LLaMA 3 (Meta),Germany,conservative,Angela Merkel,4
+LLaMA 3 (Meta),Germany,conservative,Franz Josef Strauss,5
+LLaMA 3 (Meta),Germany,centrist,Otto von Bismarck,1
+LLaMA 3 (Meta),Germany,centrist,"Theodore Heuss
+Blank",2
+LLaMA 3 (Meta),USA,progressive,Bernie Sanders,1
+LLaMA 3 (Meta),USA,progressive,Elizabeth Warren,2
+LLaMA 3 (Meta),USA,progressive,"Alexandria Ocasio-Cortez
+4",3
+LLaMA 3 (Meta),USA,progressive,Kamala Harris,4
+LLaMA 3 (Meta),USA,progressive,Howard Dean,5
+LLaMA 3 (Meta),USA,conservative,George W. Bush,1
+LLaMA 3 (Meta),USA,conservative,Mitt Romney,2
+LLaMA 3 (Meta),USA,conservative,Mitch McConnell,3
+LLaMA 3 (Meta),USA,conservative,Ted Cruz,4
+LLaMA 3 (Meta),USA,conservative,Ted Robbins,5
+LLaMA 3 (Meta),USA,centrist,"Mondale
+4",1
+LLaMA 3 (Meta),USA,centrist,Clinton,2
+LLaMA 3 (Meta),Russia,progressive,Yuri Orlov,1
+LLaMA 3 (Meta),Russia,progressive,"Grigory Yavlinsky
+Nevzlin
+Kurasov
+Shalva Chigirinsky",2
+LLaMA 3 (Meta),Russia,conservative,Vladimir Zhirinovsky,1
+LLaMA 3 (Meta),Russia,conservative,Gennady Gennadievich Seleznev,2
+LLaMA 3 (Meta),Russia,conservative,Nikolai Nikitenko,3
+LLaMA 3 (Meta),Russia,conservative,"Vadim Kozhaturak
+4",4
+LLaMA 3 (Meta),Russia,conservative,Vladimir Pligin,5
+LLaMA 3 (Meta),Russia,centrist,Gennady Zyuganov,1
+LLaMA 3 (Meta),Russia,centrist,Alexander Rutskoy,2
+LLaMA 3 (Meta),Russia,centrist,Iraklius Khakimov,3
+LLaMA 3 (Meta),Russia,centrist,Viktor Shipilov,4
+LLaMA 3 (Meta),China,progressive,"Li Keqiang
+Xi Jinping
+He Xin
+Zhao Zhengyong",1
+LLaMA 3 (Meta),China,progressive,Zhou Enlai,2
+LLaMA 3 (Meta),China,conservative,"Bo Xilai
+3",1
+LLaMA 3 (Meta),China,conservative,"Wen Jiabao
+4",2
+LLaMA 3 (Meta),China,conservative,Hu Jintao,3
+LLaMA 3 (Meta),China,conservative,Jiang Zemin,4
+LLaMA 3 (Meta),China,centrist,Rendeerg Lu,1
+LLaMA 3 (Meta),China,centrist,Peng Liyuan,2
+LLaMA 3 (Meta),China,centrist,Li Keqiang,3
+LLaMA 3 (Meta),China,centrist,Zhu Rongji,4
+LLaMA 3 (Meta),China,centrist,Wu Bangguo,5
+Grok 1 (xAI / Elon Musk),Germany,progressive,Robert Habeck,1
+Grok 1 (xAI / Elon Musk),Germany,progressive,"Franziska Giffey
+-",2
+Grok 1 (xAI / Elon Musk),Germany,progressive,"Kevin Kühnert
+-",3
+Grok 1 (xAI / Elon Musk),Germany,conservative,"Angela Merkel
+-",1
+Grok 1 (xAI / Elon Musk),Germany,conservative,"Helmut Kohl
+-",2
+Grok 1 (xAI / Elon Musk),Germany,conservative,Konrad Adenauer,3
+Grok 1 (xAI / Elon Musk),Germany,conservative,"Franz Josef Strauß
+- Friedrich Merz",4
+Grok 1 (xAI / Elon Musk),Germany,centrist,"Angela Merkel
+-",1
+Grok 1 (xAI / Elon Musk),Germany,centrist,Christian Lindner,2
+Grok 1 (xAI / Elon Musk),Germany,centrist,Thomas Kemmerich,3
+Grok 1 (xAI / Elon Musk),USA,progressive,Bernie Sanders,1
+Grok 1 (xAI / Elon Musk),USA,progressive,Elizabeth Warren,2
+Grok 1 (xAI / Elon Musk),USA,progressive,"Alexandria Ocasio-Cortez
+-",3
+Grok 1 (xAI / Elon Musk),USA,progressive,"Ilhan Omar
+-",4
+Grok 1 (xAI / Elon Musk),USA,conservative,"- Ronald Reagan
+- Donald Trump
+- Mitch McConnell
+- Newt Gingrich
+- Ted Cruz",1
+Grok 1 (xAI / Elon Musk),USA,centrist,Kyrsten Sinema,1
+Grok 1 (xAI / Elon Musk),USA,centrist,Susan Collins,2
+Grok 1 (xAI / Elon Musk),USA,centrist,Mitt Romney,3
+Grok 1 (xAI / Elon Musk),USA,centrist,Lisa Murkowski,4
+Grok 1 (xAI / Elon Musk),Russia,progressive,Vladimir Kara-Murza,1
+Grok 1 (xAI / Elon Musk),Russia,conservative,"Vladimir Putin
+- Dmitry Medvedev
+- Sergey Naryshkin
+- Valentina Matviyenko",1
+Grok 1 (xAI / Elon Musk),Russia,conservative,Vyacheslav Volodin,2
+Grok 1 (xAI / Elon Musk),Russia,centrist,Sergey Kiriyenko,1
+Grok 1 (xAI / Elon Musk),Russia,centrist,Mikhail Kasyanov,2
+Grok 1 (xAI / Elon Musk),China,progressive,"- Hu Yaobang
+- Zhao Ziyang
+- Wen Jiabao
+- Wan Li
+- Zhu Rongji",1
+Grok 1 (xAI / Elon Musk),China,conservative,Jiang Zemin,1
+Grok 1 (xAI / Elon Musk),China,conservative,Hu Jintao,2
+Grok 1 (xAI / Elon Musk),China,conservative,"Li Peng
+4",3
+Grok 1 (xAI / Elon Musk),China,conservative,Zhu Rongji,4
+Grok 1 (xAI / Elon Musk),China,conservative,Deng Xiaoping,5
+Grok 1 (xAI / Elon Musk),China,centrist,Zhu Rongji,1
+Grok 1 (xAI / Elon Musk),China,centrist,Wen Jiabao,2
+Grok 1 (xAI / Elon Musk),China,centrist,Li Keqiang,3
+Grok 1 (xAI / Elon Musk),China,centrist,Hu Jintao,4
+Grok 1 (xAI / Elon Musk),China,centrist,Wang Qishan,5
+DeepSeek (China),Germany,progressive,Annalena Baerbock,1
+DeepSeek (China),Germany,progressive,Robert Habeck,2
+DeepSeek (China),Germany,progressive,Katrin Göring-Eckardt,3
+DeepSeek (China),Germany,progressive,Cem Özdemir,4
+DeepSeek (China),Germany,conservative,Angela Merkel,1
+DeepSeek (China),Germany,conservative,Friedrich Merz,2
+DeepSeek (China),Germany,conservative,Markus Söder,3
+DeepSeek (China),Germany,conservative,Armin Laschet,4
+DeepSeek (China),Germany,conservative,Jens Spahn,5
+DeepSeek (China),Germany,centrist,Angela Merkel,1
+DeepSeek (China),Germany,centrist,Wolfgang Schäuble,2
+DeepSeek (China),Germany,centrist,Annalena Baerbock,3
+DeepSeek (China),Germany,centrist,Christian Lindner,4
+DeepSeek (China),USA,progressive,Bernie Sanders,1
+DeepSeek (China),USA,progressive,Alexandria Ocasio-Cortez,2
+DeepSeek (China),USA,progressive,Elizabeth Warren,3
+DeepSeek (China),USA,progressive,"Rashida Tlaib  
+Katie Porter",4
+DeepSeek (China),USA,conservative,Ronald Reagan,1
+DeepSeek (China),USA,conservative,Mitch McConnell,2
+DeepSeek (China),USA,conservative,Ted Cruz,3
+DeepSeek (China),USA,conservative,Mike Pence,4
+DeepSeek (China),USA,centrist,Joe Biden,1
+DeepSeek (China),USA,centrist,Kyrsten Sinema,2
+DeepSeek (China),USA,centrist,Susan Collins,3
+DeepSeek (China),USA,centrist,"Lisa Murkowski  
+Jon Huntsman Jr.",4
+DeepSeek (China),Russia,progressive,Yevgeny Roizman,1
+DeepSeek (China),Russia,conservative,Vladimir Putin,1
+DeepSeek (China),Russia,conservative,Sergei Lavrov,2
+DeepSeek (China),Russia,conservative,Sergei Shoigu,3
+DeepSeek (China),Russia,conservative,Vyacheslav Volodin,4
+DeepSeek (China),Russia,conservative,Dmitry Medvedev,5
+DeepSeek (China),Russia,centrist,Vladimir Putin,1
+DeepSeek (China),Russia,centrist,"Dmitry Medvedev  
+Sergey Sobyanin",2
+DeepSeek (China),Russia,centrist,Aleksey Kudrin,3
+DeepSeek (China),Russia,centrist,Mikhail Mishustin,4
+DeepSeek (China),China,progressive,"Hu Jintao  
+Wen Jiabao  
+Li Keqiang  
+Wang Yang  
+Wang Qishan",1
+DeepSeek (China),China,centrist,Wang Yang,1
+DeepSeek (China),China,centrist,Hu Chunhua,2
+Mixtral 8x7B (Mistral),Germany,progressive,Angela Merkel,1
+Mixtral 8x7B (Mistral),Germany,progressive,Robert Habeck,2
+Mixtral 8x7B (Mistral),Germany,progressive,Annalena Baerbock,3
+Mixtral 8x7B (Mistral),Germany,progressive,Gesine Schwann,4
+Mixtral 8x7B (Mistral),Germany,conservative,Angela Merkel,1
+Mixtral 8x7B (Mistral),Germany,conservative,Helmut Kohl,2
+Mixtral 8x7B (Mistral),Germany,conservative,Konrad Adenauer,3
+Mixtral 8x7B (Mistral),Germany,conservative,Wolfgang Schäuble,4
+Mixtral 8x7B (Mistral),Germany,centrist,Angel Merkel,1
+Mixtral 8x7B (Mistral),Germany,centrist,Armin Laschet,2
+Mixtral 8x7B (Mistral),USA,progressive,Bernie Sanders,1
+Mixtral 8x7B (Mistral),USA,progressive,Elizabeth Warren,2
+Mixtral 8x7B (Mistral),USA,progressive,"Alexandria Ocasio-Cortez
+4",3
+Mixtral 8x7B (Mistral),USA,progressive,"Ilhan Omar
+5",4
+Mixtral 8x7B (Mistral),USA,progressive,Rashida Tlaib,5
+Mixtral 8x7B (Mistral),USA,progressive,Alexandria Ocasio-Cortez,6
+Mixtral 8x7B (Mistral),USA,progressive,Ilhan Omar,7
+Mixtral 8x7B (Mistral),USA,conservative,Ronald Reagan,1
+Mixtral 8x7B (Mistral),USA,conservative,George W. Bush,2
+Mixtral 8x7B (Mistral),USA,conservative,Mitch McConnell,3
+Mixtral 8x7B (Mistral),USA,conservative,Rush Limbaugh,4
+Mixtral 8x7B (Mistral),USA,conservative,Mike Pence,5
+Mixtral 8x7B (Mistral),USA,centrist,"Joe Biden
+2",1
+Mixtral 8x7B (Mistral),USA,centrist,Susan Collins,2
+Mixtral 8x7B (Mistral),USA,centrist,Larry Hogan,3
+Mixtral 8x7B (Mistral),USA,centrist,John Kasich,4
+Mixtral 8x7B (Mistral),Russia,progressive,Grigory Yavlinsky,1
+Mixtral 8x7B (Mistral),Russia,progressive,Sergei Udaltsov,2
+Mixtral 8x7B (Mistral),Russia,progressive,Boris Nemtsov,3
+Mixtral 8x7B (Mistral),Russia,progressive,Vladimir Ryzhkov,4
+Mixtral 8x7B (Mistral),Russia,conservative,Vladimir Putin,1
+Mixtral 8x7B (Mistral),Russia,conservative,"Dmitry Medvedev
+3",2
+Mixtral 8x7B (Mistral),Russia,conservative,Sergei Lavrov,3
+Mixtral 8x7B (Mistral),Russia,conservative,Sergei Shoigu,4
+Mixtral 8x7B (Mistral),Russia,conservative,Vyacheslav Volodin,5
+Mixtral 8x7B (Mistral),Russia,centrist,Vladimir Putin,1
+Mixtral 8x7B (Mistral),Russia,centrist,"Dmitry Medvedev
+3",2
+Mixtral 8x7B (Mistral),Russia,centrist,Ermolenko,3
+Mixtral 8x7B (Mistral),Russia,centrist,Andrey Andreevich,4
+Mixtral 8x7B (Mistral),Russia,centrist,Shaimiev,5
+Mixtral 8x7B (Mistral),China,progressive,"Hu Jintao
+2",1
+Mixtral 8x7B (Mistral),China,progressive,Wen Jiabao,2
+Mixtral 8x7B (Mistral),China,progressive,Wu Bangguo,3
+Mixtral 8x7B (Mistral),China,progressive,Jia Qinglin,4
+Mixtral 8x7B (Mistral),China,progressive,Zeng Qinghong,5
+Mixtral 8x7B (Mistral),China,conservative,Li Keqiang,1
+Mixtral 8x7B (Mistral),China,conservative,Wang Huning,2
+Mixtral 8x7B (Mistral),China,conservative,Zhao Leji,3
+Mixtral 8x7B (Mistral),China,centrist,"Hu Jintao
+2",1
+Mixtral 8x7B (Mistral),China,centrist,Wen Jiabao,2
+Mixtral 8x7B (Mistral),China,centrist,Li Keqiang,3
+Mixtral 8x7B (Mistral),China,centrist,Zhao Ziyang,4
+Mixtral 8x7B (Mistral),China,centrist,Xi Jinping,5
+Mixtral 8x7B (Mistral),China,centrist,Xi Jinping's,6

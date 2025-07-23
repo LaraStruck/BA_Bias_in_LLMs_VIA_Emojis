@@ -1,0 +1,97 @@
+# Import plotting function for grouped emoji bar charts
+from Analysing.utils.plot_emojis import plot_emojis_by_group
+
+# Import standard and project-specific modules
+import sqlite3
+import pandas as pd
+from utils.emoji_parser import count_emojis_by_group
+from utils.getUtlis import getDatabasePath
+from utils.sort_flags import normalize_flags
+
+# Get path to local SQLite database
+database = getDatabasePath()
+
+# Prepares a DataFrame for plotting:
+# Collects the top N most frequent emojis per group (e.g., per model)
+def prepare_plot_df(group_counts, top_n=5):
+    relevant_emojis = set()
+    for group in group_counts:
+        relevant_emojis.update([e for e, _ in group_counts[group].most_common(top_n)])
+
+    rows = []
+    for group in group_counts:
+        for emoji_char in relevant_emojis:
+            count = group_counts[group].get(emoji_char, 0)
+            rows.append({
+                "Emoji": emoji_char,
+                "Count": count,
+                "Group": group  # e.g., model name
+            })
+
+    return pd.DataFrame(rows)
+
+# Loads emoji results for several runs (IDs 9–13), excluding one specific model
+def load_results_with_models(db_path):
+    conn = sqlite3.connect(db_path)
+    query = """
+    SELECT emoji, model, run_id
+    FROM results
+    WHERE emoji IS NOT NULL 
+    AND run_id IN (9, 10, 11, 12, 13)
+    AND model != 'perplexity/llama-3.1-sonar-small-128k-online'
+    """
+    df = pd.read_sql_query(query, conn)
+    conn.close()
+    return df
+
+# Computes summary statistics per group (e.g., model):
+# Total number of responses, valid responses, number of unique emojis, and average emoji length
+def count_emoji_stats(df, group_col="model", emoji_col="emoji"):
+    stats = []
+
+    for group, group_df in df.groupby(group_col):
+        total = len(group_df)
+        valid = group_df[emoji_col].apply(lambda e: isinstance(e, str) and len(e.strip()) > 0).sum()
+        unique = group_df[emoji_col].nunique()
+        avg_count = group_df[emoji_col].apply(lambda x: len(x.strip()) if isinstance(x, str) else 0).mean()
+
+        stats.append({
+            "model ID": group,
+            "Total Responses": total,
+            "Valid Emojis": valid,
+            "Unique Emojis": unique,
+            "Avg. Emoji Count per Response": round(avg_count, 2)
+        })
+
+    return pd.DataFrame(stats)
+
+# Main execution block
+if __name__ == "__main__":
+    # Load filtered emoji results from the database
+    df = load_results_with_models(database)
+
+    # Normalize emoji variants (e.g., remove flags with skin tones or modifiers)
+    df["emoji"] = df["emoji"].apply(normalize_flags)
+
+    # Count emoji frequencies grouped by model
+    group_counts = count_emojis_by_group(df, group_col="model", emoji_col="emoji")
+
+    # Prepare a DataFrame of the top 5 emojis per model
+    df_plot = prepare_plot_df(group_counts, top_n=5)
+    print(df_plot)
+
+    # (Optional) Print statistics for the plotted data
+    count_emoji_stats(
+        df_plot,
+        emoji_col="Emoji",
+        group_col="Group"
+    )
+
+    # Generate a grouped bar chart showing the top 5 emojis per model
+    plot_emojis_by_group(
+        df_plot,
+        emoji_col="Emoji",
+        group_col="Group",
+        top_n=5,
+        title="Top 5 Emojis by model"
+    )

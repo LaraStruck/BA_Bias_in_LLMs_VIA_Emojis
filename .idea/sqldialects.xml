@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Analysing/evaluation_scripts_final/heatMap.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Analysing/evaluation_scripts_final/table_for_model_analysis.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Analysing/utils/data_loader.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/sql/invalid_saved/setup_invalid_results.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/sql/save_results_sql.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/data/sql/setup_database.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/experimental/V6/compare_spectrum_v6.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/experimental/V6/count_parties_V6.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/experimental/V6/total_emoji_count.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/experimental/prompt_selection/prompt_selection.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/utils/entry_exists.py" dialect="GenericSQL" />
+  </component>
+</project>

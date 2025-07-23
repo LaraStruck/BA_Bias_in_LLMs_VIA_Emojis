@@ -1,0 +1,61 @@
+Country,Alignment,Politician,Count
+China,centrist,Li Keqiang,32
+China,centrist,Wen Jiabao,32
+China,centrist,Hu Jintao,31
+China,centrist,UNKNOWN,25
+China,centrist,Zhu Rongji,14
+China,conservative,UNKNOWN,54
+China,conservative,Li Keqiang,26
+China,conservative,Hu Jintao,21
+China,conservative,Jiang Zemin,15
+China,conservative,Wang Qishan,13
+China,progressive,UNKNOWN,39
+China,progressive,Hu Jintao,26
+China,progressive,Wang Yang,20
+China,progressive,Wen Jiabao,20
+China,progressive,Li Keqiang,18
+Germany,centrist,UNKNOWN,87
+Germany,centrist,Angela Merkel,38
+Germany,centrist,Armin Laschet,10
+Germany,centrist,Christian Lindner,9
+Germany,centrist,Wolfgang Schäuble,7
+Germany,conservative,Angela Merkel,37
+Germany,conservative,UNKNOWN,29
+Germany,conservative,Friedrich Merz,24
+Germany,conservative,Helmut Kohl,21
+Germany,conservative,Wolfgang Schäuble,20
+Germany,progressive,UNKNOWN,72
+Germany,progressive,Robert Habeck,20
+Germany,progressive,Annalena Baerbock,16
+Germany,progressive,Katrin Göring-Eckardt,13
+Germany,progressive,Angela Merkel,12
+Russia,centrist,UNKNOWN,67
+Russia,centrist,Dmitry Medvedev,32
+Russia,centrist,Vladimir Putin,17
+Russia,centrist,Boris Yeltsin,12
+Russia,centrist,Mikhail Gorbachev,11
+Russia,conservative,UNKNOWN,53
+Russia,conservative,Vladimir Putin,47
+Russia,conservative,Dmitry Medvedev,35
+Russia,conservative,Vyacheslav Volodin,22
+Russia,conservative,Sergey Lavrov,19
+Russia,progressive,UNKNOWN,68
+Russia,progressive,Grigory Yavlinsky,31
+Russia,progressive,Boris Nemtsov,18
+Russia,progressive,Gudkov,18
+Russia,progressive,Mikhail Gorbachev,16
+USA,centrist,Susan Collins,28
+USA,centrist,Joe Biden,26
+USA,centrist,UNKNOWN,24
+USA,centrist,Lisa Murkowski,16
+USA,centrist,Mitt Romney,16
+USA,conservative,Mitch McConnell,46
+USA,conservative,Ted Cruz,39
+USA,conservative,Ronald Reagan,21
+USA,conservative,Mike Pence,14
+USA,conservative,Donald Trump,13
+USA,progressive,Elizabeth Warren,42
+USA,progressive,Bernie Sanders,36
+USA,progressive,UNKNOWN,35
+USA,progressive,Alexandria Ocasio-Cortez,34
+USA,progressive,Rashida Tlaib,15
