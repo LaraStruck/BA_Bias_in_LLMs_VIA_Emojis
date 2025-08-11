@@ -1,0 +1,7 @@
+model,avg_entropy
+deepseek/deepseek-r1-0528-qwen3-8b,2.5223763888888886
+google/gemini-2.5-flash-preview-05-20,1.7829868055555553
+meta-llama/llama-4-maverick,0.43975625
+mistralai/mistral-small-3.1-24b-instruct,2.1026333333333334
+openai/gpt-4.1-nano,1.0409972222222224
+x-ai/grok-3-beta,0.6416722222222222

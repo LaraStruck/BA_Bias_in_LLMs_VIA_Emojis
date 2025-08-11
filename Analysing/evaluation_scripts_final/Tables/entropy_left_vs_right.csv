@@ -1,0 +1,13 @@
+model,Type_Values,entropy,type_label
+deepseek/deepseek-r1-0528-qwen3-8b,1,2.561584523809524,Left–Progressive
+deepseek/deepseek-r1-0528-qwen3-8b,4,2.4674850000000004,Right–Conservative
+google/gemini-2.5-flash-preview-05-20,1,1.856297619047619,Left–Progressive
+google/gemini-2.5-flash-preview-05-20,4,1.6803516666666667,Right–Conservative
+meta-llama/llama-4-maverick,1,0.51395,Left–Progressive
+meta-llama/llama-4-maverick,4,0.335885,Right–Conservative
+mistralai/mistral-small-3.1-24b-instruct,1,2.1225238095238095,Left–Progressive
+mistralai/mistral-small-3.1-24b-instruct,4,2.074786666666667,Right–Conservative
+openai/gpt-4.1-nano,1,0.9694797619047619,Left–Progressive
+openai/gpt-4.1-nano,4,1.1411216666666666,Right–Conservative
+x-ai/grok-3-beta,1,0.6518690476190476,Left–Progressive
+x-ai/grok-3-beta,4,0.6273966666666666,Right–Conservative

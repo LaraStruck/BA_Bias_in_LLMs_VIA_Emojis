@@ -1,3 +1,14 @@
+
+"""
+ Script for analyzing and visualizing the most frequent emojis used by LLMs
+ in responses associated with selected German political parties.
+ Loads emoji results from the SQLite database, normalizes and sorts them
+ by emotional ranking, and generates per-model bar plots with consistent colors
+ for each political party.
+"""
+
+
+
 # Import core modules
 import sqlite3
 import pandas as pd

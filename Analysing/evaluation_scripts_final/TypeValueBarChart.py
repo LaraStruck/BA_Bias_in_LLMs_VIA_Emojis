@@ -1,9 +1,17 @@
+
+
+"""
+Generates grouped emoji distribution plots by political typology or score block
+(e.g., left–liberal vs. right–conservative, or populistic vs. non-populistic)
+for selected models and countries. Data is loaded from the SQLite database,
+flags are normalized, emojis are ranked by emotional order, and top-N results
+are visualized using bar charts.
+"""
+
+
 import sqlite3
 import pandas as pd
-from collections import Counter
-
 from pandas import DataFrame
-
 from Analysing.utils.plot_emojis import plot_emojis_by_group
 from data.variables.models import MODELS
 from utils.emoji_parser import count_emojis_by_group

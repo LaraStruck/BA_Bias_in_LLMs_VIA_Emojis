@@ -1,3 +1,15 @@
+
+"""
+ Script to generate a summary table of emoji usage per model.
+ Loads valid and invalid emoji responses from the SQLite database (filtered by run_id and party type),
+ normalizes flags, and computes metrics such as:
+ - number of valid/invalid responses
+ - number of unique emojis
+ - number of frequently used emojis (>= 40 occurrences)
+ Results are saved as CSV in the 'Tables' directory.
+ Note, that flags are normalized to a base emoji, e.g., '🇺🇸' -> '🏳️' and are not
+ included in the unique emoji count.
+"""
 import sqlite3
 import pandas as pd
 from collections import Counter

@@ -1,3 +1,11 @@
+
+"""
+ Script to generate interactive heatmaps of emoji usage by ideological score (e.g., V6/V8)
+ using data from the SQLite database. Supports filtering by model, country, and prompt,
+ normalizes emoji counts per score, and sorts emojis based on emotional ranking.
+"""
+
+
 # Import core libraries
 import sqlite3
 import pandas as pd

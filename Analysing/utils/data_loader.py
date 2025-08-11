@@ -1,3 +1,11 @@
+
+
+"""
+Utility function to load data from a specified SQLite table into a pandas DataFrame.
+Allows selecting specific columns and applying custom WHERE conditions.
+"""
+
+
 import sqlite3
 import pandas as pd
 import os

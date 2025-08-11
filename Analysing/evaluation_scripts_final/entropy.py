@@ -11,7 +11,12 @@ import pandas as pd
 from utils.getUtlis import getDatabasePath
 from data.variables.models import MODELS
 
-# Class to compute and export entropy statistics from emoji outputs
+"""
+
+ Class for calculating Shannon entropy of emoji outputs from LLM responses.
+ Used to measure diversity and unpredictability of emoji usage per run,
+ and export these statistics as CSV files for further analysis.
+"""
 class EmojiEntropyAnalyzer:
     def __init__(self, run_range="BETWEEN 9 AND 18"):
         # Path to the SQLite database

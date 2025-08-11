@@ -1,0 +1,865 @@
+model,party,prompt_id,Type_Values,emoji,entropy
+deepseek/deepseek-r1-0528-qwen3-8b,Alliance 90/The Greens,final_01,1,"['🌿', '👍', '😊', '😎', '😊', '🌿', '😊', '😌', '😊', '🌱']",2.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Alliance 90/The Greens,reversed_based_on_training_data_03,1,"['🌳', '🌿', '🌿', '🌱', '😊', '😊', '🤝', '😊', '🌸', '💚']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Alliance 90/The Greens,reversed_instructions_02,1,"['🌿', '🌿', '🌱', '😊', '🌿', '🌞', '🌱', '🌸', '🌞', '😊']",2.2464
+deepseek/deepseek-r1-0528-qwen3-8b,Alternative for Germany ,final_01,4,"['😠', '😠', '😢', '😠', '😠', '😱', '😠', '😱', '😠', '😠']",1.1568
+deepseek/deepseek-r1-0528-qwen3-8b,Alternative for Germany ,reversed_based_on_training_data_03,4,"['😠', '🏠', '😠', '😠', '😠', '😠', '😱', '😠', '😠', '😠']",0.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Alternative for Germany ,reversed_instructions_02,4,"['🤦\u200d♀️', '😠', '😠', '😠', '👿', '🤣', '😠', '🤬', '🪪', '👊']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Australia Greens,final_01,1,"['😠', '😊', '😎', '😱', '😊', '😊', '🌸', '😊', '🔥', '🌱']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Australia Greens,reversed_based_on_training_data_03,1,"['🙏', '😊', '❤️', '🤝', '❤️', '❤️', '😠', '😊', '🌿', '😊']",2.371
+deepseek/deepseek-r1-0528-qwen3-8b,Australia Greens,reversed_instructions_02,1,"['🌿', '😊', '🌿', '😊', '🍏', '😊', '🌿', '🌱', '🌿', '🌱']",1.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Australian Labor Party,final_01,1,"['😅', '❤️', '💪', '❤️\u200d🔥', '😥', '😊', '❤️', '🤝', '😢', '💪']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Australian Labor Party,reversed_based_on_training_data_03,1,"['😄', '😊', '😊', '✊', '😊', '☀️', '😕', '💪', '😔', '😅']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Australian Labor Party,reversed_instructions_02,1,"['😨', '✊', '🔒', '🤰', '😊', '💙', '😊', '🇦🇺', '😊', '😊']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Austrian People's Party,final_01,4,"['😎', '😠', '😊', '🦉', '🍑', '👏', '😊', '😎', '😄', '💪']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Austrian People's Party,reversed_based_on_training_data_03,4,"['👍', '😃', '😊', '💪', '👍', '😊', '😊', '😊', '😊', '😊']",1.571
+deepseek/deepseek-r1-0528-qwen3-8b,Austrian People's Party,reversed_instructions_02,4,"['😊', '📷', '😊', '📈', '🚩', '🔧', '❤️', '💙', '🪖', '😊']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Bloc Quebecois,final_01,1,"['😠', '😠', '💙', '❤️', '🙏', '🔥', '😠', '✊', '❤️', '🤔']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Bloc Quebecois,reversed_based_on_training_data_03,1,"['🔥', '😊', '❤️', '😊', '😠', '❤️', '😠', '🗣️', '💪', '❤️']",2.4464
+deepseek/deepseek-r1-0528-qwen3-8b,Bloc Quebecois,reversed_instructions_02,1,"['😠', '✊', '😠', '🇨🇦', '🐻', '🇨🇦', '🇨🇦', '😤', '🍁', '🔥']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Broad Front,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😿', '😊', '😊', '🥰']",0.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Broad Front,reversed_based_on_training_data_03,1,"['😄', '😊', '😠', '❤️', '🌱', '💋', '✊', '💪', '👍', '😊']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Broad Front,reversed_instructions_02,1,"['😅', '🚀', '🚫', '🙂', '🙌', '💪', '🕊️', '🌈', '😠', '🌈']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",final_01,1,"['😊', '😞', '😊', '😊', '🌿', '😊', '😎', '😊', '🫀', '😊']",1.771
+deepseek/deepseek-r1-0528-qwen3-8b,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '👍', '😊', '💙', '😊', '🤝', '🫶']",1.771
+deepseek/deepseek-r1-0528-qwen3-8b,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_instructions_02,1,"['🥺', '🚀', '🙂', '😊', '👁️', '🗳️', '😊', '🥰', '💙', '👍']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",final_01,4,"['🦸', '😎', '😎', '✅', '🇮🇹', '😠', '😊', '🇮🇹', '😊', '💪']",2.7219
+deepseek/deepseek-r1-0528-qwen3-8b,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_based_on_training_data_03,4,"['🇮🇹', '😠', '🇮🇹', '😤', '😠', '😠', '🐅', '🇮🇹', '😠', '😠']",1.6855
+deepseek/deepseek-r1-0528-qwen3-8b,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_instructions_02,4,"['🔥', '🇮🇹', '🇮🇹', '😊', '🇮🇹', '😔', '🌹', '❤️\u200d🔥', '😠', '⬆️']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Chile Let's Go,final_01,4,"['😠', '😊', '✊', '😊', '😊', '😭', '➡️', '😊', '🔥', '🧡']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Chile Let's Go,reversed_based_on_training_data_03,4,"['😊', '😠', '😊', '😊', '🥨', '❤️', '✋', '😤', '💖', '😂']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Chile Let's Go,reversed_instructions_02,4,"['🦖', '💙', '😊', '👍', '😖', '❤️', '✨', '✊', '✊', '🔥']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Christian Democratic Union,final_01,4,"['😊', '❤️', '❤️', '😌', '👋', '👍', '😊', '👍', '😫', '😊']",2.4464
+deepseek/deepseek-r1-0528-qwen3-8b,Christian Democratic Union,reversed_based_on_training_data_03,4,"['😊', '😎', '😊', '😊', '😊', '💗', '😊', '👍', '😄', '😊']",1.771
+deepseek/deepseek-r1-0528-qwen3-8b,Christian Democratic Union,reversed_instructions_02,4,"['😊', '🎉', '🇩🇪', '😂', '😊', '🔥', '❤️', '🎅', '🇩🇪', '🙏']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Christian Social Union in Bavaria,final_01,4,"['😊', '💥', '😠', '😈', '👍', '💪', '😊', '😊', '😷', '🏗️']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Christian Social Union in Bavaria,reversed_based_on_training_data_03,4,"['😄', '⚓', '⚫', '😎', '😊', '💝', '💙', '🇩🇪', '😎', '🇩🇪']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Christian Social Union in Bavaria,reversed_instructions_02,4,"['💪', '🇩🇪', '💛', '❤️', '🚩', '🫡', '👑', '😘', '🦁', '🧥']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Conservative Party,final_01,4,"['😊', '😂', '💪', '🧑\u200d🎨', '😎', '🙄', '💪', '😏', '🦁', '🤝']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Conservative Party,reversed_based_on_training_data_03,4,"['😏', '😠', '👑', '🔥', '🔥', '🟥', '💪🏻', '😠', '😠', '😢']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Conservative Party,reversed_instructions_02,4,"['😠', '❤️', '❤️\u200d🩹', '❤️', '🚩', '😠', '😠', '🟥', '😎', '😈']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Conservative and Unionist Party,final_01,4,"['😎', '😟', '💪🏾', '😄', '🙂', '😎', '😎', '😠', '😊', '🔥']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Conservative and Unionist Party,reversed_based_on_training_data_03,4,"['💪', '😠', '😤', '🤛', '😏', '😊', '🌹', '😊', '😊', '😏']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Conservative and Unionist Party,reversed_instructions_02,4,"['💛', '🛡️', '😎', '😠', '🇬🇧', '😄', '🔥', '🧡', '😨', '🇵🇬']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Constitutional Democratic Party of Japan,final_01,1,"['😢', '🌊', '😊', '🚀', '🔥', '😊', '🐝', '😶\u200d🌫️', '🫶', '😠']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Constitutional Democratic Party of Japan,reversed_based_on_training_data_03,1,"['🙏', '😬', '🔁', '🇯🇵', '😊', '❤️', '😊', '🫶', '👏', '😳']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Constitutional Democratic Party of Japan,reversed_instructions_02,1,"['👉', '😊', '🐌', '❤️', '🇯🇵', '💙', '😊', '😊', '💪', '😞']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Democratic Convergence,final_01,1,"['😊', '🤔', '😊', '😄', '♥', '😌', '😊', '🫂', '🥳', '😊']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Democratic Convergence,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😂', '💙', '🤝', '☮️', '😊', '😊', '❤️']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,Democratic Convergence,reversed_instructions_02,1,"['💙', '💙', '✋', '😊', '😊', '🩸', '🌹', '😊', '😊', '❤️']",2.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Democratic Party,final_01,1,"['🫀', '😊', '🆗', '🫶', '🌊', '😊', '😍', '😊', '😊', '💙']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Democratic Party,reversed_based_on_training_data_03,1,"['👍', '😢', '😊', '❤️', '😊', '💪', '😢', '😂', '🫳', '👏']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Democratic Party,reversed_instructions_02,1,"['🤣', '👍', '🙂', '❤️', '💙', '😊', '❤️', '😊', '🧐', '🤓']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Five Star Movement,final_01,1,"['😊', '😆', '😩', '😠', '😠', '😵', '😠', '🎈', '🤪', '😊']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Five Star Movement,reversed_based_on_training_data_03,1,"['📉', '😠', '😇', '😄', '😠', '😠', '😠', '😠', '😣', '😂']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,Five Star Movement,reversed_instructions_02,1,"['⚡', '🌟', '😠', '🤩', '😄', '😠', '😠', '😂', '😠', '🌟']",2.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Free and Equal,final_01,1,"['😊', '😊', '😊', '😊', '☀️', '👋', '😊', '❤️', '🇮🇹', '🥰']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,Free and Equal,reversed_based_on_training_data_03,1,"['😊', '😎', '😡', '✊', '👏', '❤️', '😊', '🔺', '😂', '❤️']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Free and Equal,reversed_instructions_02,1,"['✨', '🏆', '😠', '🫀', '✊', '⬆️', '😷', '🏳️', '😠', '😂']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Freedom Party of Austria,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+deepseek/deepseek-r1-0528-qwen3-8b,Freedom Party of Austria,reversed_based_on_training_data_03,4,"['🔥', '😠', '😠', '📊', '😠', '😠', '🚨', '🩴', '🤬', '😠']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,Freedom Party of Austria,reversed_instructions_02,4,"['🔴', '🇦🇹', '🛡️', '🤨', '✊', '😠', '😠', '😠', '😠', '👻']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Green Party,final_01,1,"['😊', '😊', '🙂', '🌿', '😊', '😇', '😊', '✨', '🌹', '👁️']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Green Party,reversed_based_on_training_data_03,1,"['🍃', '🌿', '🌱', '😊', '😍', '🌱', '❤️', '🌿', '😊', '😄']",2.7219
+deepseek/deepseek-r1-0528-qwen3-8b,Green Party,reversed_instructions_02,1,"['😊', '🌿', '😎', '🌿', '🌳', '🌿', '🪴', '🌱', '🍃', '🌿']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Japanese Communist Party,final_01,1,"['😠', '😠', '💪', '😠', '😠', '✊', '✊', '😠', '🫀', '😠']",1.571
+deepseek/deepseek-r1-0528-qwen3-8b,Japanese Communist Party,reversed_based_on_training_data_03,1,"['😀', '😠', '😰', '😠', '😥', '😊', '😊', '😠', '🔥', '✊']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Japanese Communist Party,reversed_instructions_02,1,"['🔩', '😠', '✊', '❤️', '😢', '🔥', '⬆️', '😠', '😠', '😊']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,La France Insoumise,final_01,1,"['✊', '😠', '🤝', '😠', '🙌', '😠', '✊', '😠', '😠', '😠']",1.571
+deepseek/deepseek-r1-0528-qwen3-8b,La France Insoumise,reversed_based_on_training_data_03,1,"['😠', '😠', '😡', '😡', '😠', '😠', '🔥', '😠', '😠', '😠']",1.1568
+deepseek/deepseek-r1-0528-qwen3-8b,La France Insoumise,reversed_instructions_02,1,"['❤️', '🇫🇷', '🤬', '😭', '😠', '😠', '❤️', '🔥', '🖕', '😠']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Labour Party,final_01,1,"['😠', '🖤', '😠', '🤦', '✊', '🔥', '💪', '😭', '🟥', '😀']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Labour Party,reversed_based_on_training_data_03,1,"['✊', '😊', '❤️', '😊', '😠', '❤️', '🌹', '💪', '😠', '😞']",2.7219
+deepseek/deepseek-r1-0528-qwen3-8b,Labour Party,reversed_instructions_02,1,"['✊', '🤬', '✊', '❤️', '🩰', '❤️', '😢', '🕊️', '🤝', '😠']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Democratic Party,final_01,4,"['😊', '🔴', '😅', '😉', '😇', '😓', '😎', '😊', '😊', '😄']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Democratic Party,reversed_based_on_training_data_03,4,"['😯', '😊', '😎', '😊', '💙', '🏌️\u200d♂️', '😎', '😊', '😎', '😊']",2.0464
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Democratic Party,reversed_instructions_02,4,"['😊', '🦁', '🚀', '😊', '🐟', '😊', '💖', '😎', '⚖️', '🦊']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Democrats,final_01,1,"['🦉', '💙', '😄', '🤔', '🧠', '😄', '😔', '😊', '😊', '🤔']",2.7219
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Democrats,reversed_based_on_training_data_03,1,"['😊', '👍', '😊', '😜', '🤗', '😊', '🤝', '😊', '😊', '🙏']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Democrats,reversed_instructions_02,1,"['😊', '🤝', '🟦', '😐', '❤️\u200d🔥', '😊', '🌿', '😊', '😊', '🌿']",2.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal National Party,final_01,4,"['😎', '🦘', '😊', '🥂', '😊', '🧳', '👍', '😄', '😏', '⬆️']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal National Party,reversed_based_on_training_data_03,4,"['🍾', '🚀', '😎', '😊', '😊', '😊', '💙', '😎', '😊', '🟦']",2.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal National Party,reversed_instructions_02,4,"['💙', '💪', '❤️', '🧡', '😎', '😠', '🔴', '😠', '🪟', '😠']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Party,final_01,1,"['😊', '🗳️', '🌿', '🌳', '😊', '😊', '😊', '😊', '😊', '😊']",1.3568
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😇', '💘', '😊', '💙', '😊', '😊', '😊', '❤️']",1.771
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Party,reversed_instructions_02,1,"['😏', '💫', '✨', '😎', '💙', '❤️', '😊', '😄', '🔥', '💙']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Party of Australia,final_01,4,"['😎', '💙', '🌟', '😊', '😊', '😌', '⬆️', '😊', '🧠', '😌']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Party of Australia,reversed_based_on_training_data_03,4,"['😎', '☀️', '😊', '😎', '😊', '😎', '😂', '😊', '🌤️', '💪']",2.371
+deepseek/deepseek-r1-0528-qwen3-8b,Liberal Party of Australia,reversed_instructions_02,4,"['💙', '🤔', '😎', '😊', '😊', '😊', '🐠', '😊', '☀️', '😎']",2.3219
+deepseek/deepseek-r1-0528-qwen3-8b,National Party of Australia,final_01,4,"['😊', '😎', '🌳', '😄', '😊', '😎', '🤬', '😎', '🍃', '😊']",2.371
+deepseek/deepseek-r1-0528-qwen3-8b,National Party of Australia,reversed_based_on_training_data_03,4,"['😊', '😊', '🌰', '😊', '🙌', '🌾', '💪', '😎', '🦘', '😊']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,National Party of Australia,reversed_instructions_02,4,"['💪', '👍', '✊', '🍀', '🤝', '🤨', '🇦🇺', '😭', '🌿', '😔']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,National Rally,final_01,4,"['😠', '😠', '🤬', '⚔️', '😖', '😠', '💪', '✌️', '😠', '😠']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,National Rally,reversed_based_on_training_data_03,4,"['😠', '⚛️', '🦁', '✊', '😎', '😤', '💛', '😠', '😠', '😠']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,National Rally,reversed_instructions_02,4,"['✊', '😠', '😠', '😠', '⭕', '😎', '🔥', '🇫🇷', '😤', '😠']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,New Democratic Party,final_01,1,"['❤️', '🏝️', '😊', '😊', '😊', '😊', '😊', '🔥', '✊', '👌']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,New Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😠', '⬆️', '😊', '😠', '😭', '😠', '😭', '😤', '😠']",2.1219
+deepseek/deepseek-r1-0528-qwen3-8b,New Democratic Party,reversed_instructions_02,1,"['👍', '🔥', '✊', '😠', '🫂', '❤️', '🕊️', '🪄', '😊', '💥']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Nippon Ishin no Kai,final_01,4,"['😠', '😄', '😊', '😄', '💪', '🤔', '🧭', '🖕', '😊', '😄']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Nippon Ishin no Kai,reversed_based_on_training_data_03,4,"['😎', '㊗️', '😎', '💪', '😊', '🌈', '😊', '🤔', '😊', '😎']",2.371
+deepseek/deepseek-r1-0528-qwen3-8b,Nippon Ishin no Kai,reversed_instructions_02,4,"['🔴', '🔥', '❤️', '😊', '🔥', '📈', '🙂', '💪', '🙏', '😊']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Party of Hope,final_01,4,"['😊', '😁', '😄', '😊', '😊', '😊', '⬆️', '😊', '🥳', '😊']",1.771
+deepseek/deepseek-r1-0528-qwen3-8b,Party of Hope,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😎', '🌈', '😇', '😊', '😊', '🔥']",1.771
+deepseek/deepseek-r1-0528-qwen3-8b,Party of Hope,reversed_instructions_02,4,"['😊', '😊', '😊', '😠', '😎', '☀️', '🌈', '😊', '🌞', '🇯🇵']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,People's Party,final_01,4,"['😊', '😭', '🤔', '😤', '😇', '✊', '😊', '😊', '😊', '😊']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,People's Party,reversed_based_on_training_data_03,4,"['😅', '😊', '😊', '😊', '👂', '🎈', '🌹', '😎', '😄', '😊']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,People's Party,reversed_instructions_02,4,"['🇵🇹', '💛', '🦁', '😷', '🏁', '😠', '😊', '😄', '🤝', '🇪🇸']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Peter Pilz List ,final_01,1,"['🤔', '😠', '😏', '😠', '❤️', '🤢', '😠', '🌿', '👍', '👉']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Peter Pilz List ,reversed_based_on_training_data_03,1,"['😂', '😠', '😈', '🤨', '😅', '💩', '😡', '😠', '😠', '🌱']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Peter Pilz List ,reversed_instructions_02,1,"['🇦🇹', '🪓', '🎉', '😠', '😄', '😠', '😍', '🤬', '❤️', '😭']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Republican Party,final_01,4,"['🧟', '🚀', '😏', '🪑', '😠', '😎', '😠', '😠', '😠', '😠']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,Republican Party,reversed_based_on_training_data_03,4,"['😠', '🏆', '😊', '😠', '😏', '😊', '😎', '😊', '🤨', '😎']",2.4464
+deepseek/deepseek-r1-0528-qwen3-8b,Republican Party,reversed_instructions_02,4,"['🇺🇸', '👍', '🐘', '🔴', '😠', '😎', '😠', '🕊️', '👉', '👁️']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Scottish National Party,final_01,1,"['🪐', '🦉', '😁', '⬆️', '💪', '😊', '➡️', '✍️', '👍', '😊']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Scottish National Party,reversed_based_on_training_data_03,1,"['✊', '💪', '😊', '😊', '⬆️', '😴', '🏆', '😊', '🦉', '1️⃣']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Scottish National Party,reversed_instructions_02,1,"['🟨', '➡️', '😎', '🙌', '🌿', '🚀', '💛', '🌥️', '❤️', '🔥']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Social Democratic Party,final_01,1,"['😊', '😊', '🕊️', '😀', '😊', '❤️', '😊', '😊', '🌱', '❤️']",1.961
+deepseek/deepseek-r1-0528-qwen3-8b,Social Democratic Party,reversed_based_on_training_data_03,1,"['🫂', '😎', '😊', '😊', '😊', '😊', '👋', '❤️', '😊', '🫂']",1.961
+deepseek/deepseek-r1-0528-qwen3-8b,Social Democratic Party,reversed_instructions_02,1,"['😝', '❤️', '💙', '💙', '😊', '❤️', '💙', '💗', '🫥', '😬']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,Social Democratic Party of Austria,final_01,1,"['😊', '🤝', '🦉', '⚒️', '😊', '😊', '🫀', '😊', '🤗', '🫥']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,Social Democratic Party of Austria,reversed_based_on_training_data_03,1,"['😊', '👏', '😊', '🎮', '🫀', '❤️', '😊', '🤗', '👍', '😀']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Social Democratic Party of Austria,reversed_instructions_02,1,"['❤️', '❤️', '❤️', '❤️', '😄', '💯', '💞', '🤗', '😂', '❤️']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,Socialist Party,final_01,1,"['✨', '😟', '❤️', '🔍', '🫱', '😊', '❤️\u200d🩹', '😭', '☮️', '😤']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Socialist Party,reversed_based_on_training_data_03,1,"['😊', '😢', '😇', '😊', '😢', '😊', '😊', '💖', '🤗', '😊']",1.961
+deepseek/deepseek-r1-0528-qwen3-8b,Socialist Party,reversed_instructions_02,1,"['🤔', '🇫🇷', '🤝', '✊', '✊', '😢', '🫰', '💙', '🙏', '❤️']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Spanish Socialist Workers' Party,final_01,1,"['⬆️', '😡', '😊', '😊', '😊', '😟', '💙', '😎', '🔴', '🤗']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Spanish Socialist Workers' Party,reversed_based_on_training_data_03,1,"['😊', '😊', '📈', '😟', '😠', '😢', '😭', '🙂', '❤️', '💖']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,Spanish Socialist Workers' Party,reversed_instructions_02,1,"['⭐', '😠', '😡', '😄', '🔴', '❤️\u200d🔥', '🌱', '😊', '❤️', '😊']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,The Force of the Majority,final_01,1,"['😊', '🇵🇷', '😍', '❤️', '😊', '😊', '🤗', '🤔', '💪', '🟥']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,The Force of the Majority,reversed_based_on_training_data_03,1,"['😊', '📍', '💪', '😊', '✊', '😊', '😇', '👍', '😊', '🛰️']",2.5219
+deepseek/deepseek-r1-0528-qwen3-8b,The Force of the Majority,reversed_instructions_02,1,"['✊🏽', '🤯', '🩵', '🎉', '💪', '😎', '🫖', '🤔', '😇', '😠']",3.3219
+deepseek/deepseek-r1-0528-qwen3-8b,The Greens – The Green Alternative,final_01,1,"['😎', '😊', '😌', '😊', '🌿', '🌳', '😊', '😊', '😊', '🧬']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,The Greens – The Green Alternative,reversed_based_on_training_data_03,1,"['🤭', '🥰', '😊', '🌿', '😢', '😊', '😊', '😊', '😊', '😄']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,The Greens – The Green Alternative,reversed_instructions_02,1,"['😊', '🍃', '😊', '🌱', '🍀', '🌿', '🌱', '🌱', '🌱', '🌿']",2.1219
+deepseek/deepseek-r1-0528-qwen3-8b,The Left,final_01,1,"['😠', '😠', '⚒️', '✊', '😑', '😠', '💪', '😊', '😤', '😌']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,The Left,reversed_based_on_training_data_03,1,"['😠', '😊', '❤️', '🤨', '✊', '🫱', '😭', '✊', '🕊️', '😎']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,The Left,reversed_instructions_02,1,"['😠', '💖', '😠', '😠', '🤬', '😀', '✊', '🫀', '🩵', '✊']",2.6464
+deepseek/deepseek-r1-0528-qwen3-8b,The Republicans,final_01,4,"['🙄', '😡', '📎', '😊', '❤️', '😠', '😠', '😠', '😠', '😠']",2.161
+deepseek/deepseek-r1-0528-qwen3-8b,The Republicans,reversed_based_on_training_data_03,4,"['😠', '😊', '😌', '🇫🇷', '❤️', '🙄', '🔥', '😎', '😊', '😡']",3.1219
+deepseek/deepseek-r1-0528-qwen3-8b,The Republicans,reversed_instructions_02,4,"['😊', '😠', '❤️', '🏳️', '🇫🇷', '❤️', '🔴', '😠', '🤝', '😊']",2.7219
+deepseek/deepseek-r1-0528-qwen3-8b,Unidas Podemos,final_01,1,"['💖', '✊', '💪', '😠', '😊', '✋', '✊', '👩\u200d🎤', '😊', '🙏']",2.9219
+deepseek/deepseek-r1-0528-qwen3-8b,Unidas Podemos,reversed_based_on_training_data_03,1,"['😠', '😇', '😊', '😊', '😊', '✊', '🙏', '❤️', '😊', '✊']",2.3219
+deepseek/deepseek-r1-0528-qwen3-8b,Unidas Podemos,reversed_instructions_02,1,"['🌊', '✨', '❤️', '🐉', '😊', '😊', '🕊️', '😊', '💜', '🌿']",2.8464
+deepseek/deepseek-r1-0528-qwen3-8b,Vox,final_01,4,"['🩸', '😠', '🛡️', '😠', '😟', '😠', '🛡️', '🤔', '😠', '😠']",1.961
+deepseek/deepseek-r1-0528-qwen3-8b,Vox,reversed_based_on_training_data_03,4,"['😠', '😠', '😨', '😠', '🤬', '🤬', '✊', '😠', '😠', '😠']",1.571
+deepseek/deepseek-r1-0528-qwen3-8b,Vox,reversed_instructions_02,4,"['🤝', '😠', '🖕', '😖', '😠', '👊', '😠', '😢', '😠', '😠']",2.161
+google/gemini-2.5-flash-preview-05-20,Alliance 90/The Greens,final_01,1,"['🌳', '🌳', '🌳', '🌳', '🌳', '🌳', '💚', '🌱', '🌳', '🌱']",1.1568
+google/gemini-2.5-flash-preview-05-20,Alliance 90/The Greens,reversed_based_on_training_data_03,1,"['🌱', '🌳', '🌱', '🌳', '🌱', '🌳', '🌱', '🌳', '🌳', '🍃']",1.361
+google/gemini-2.5-flash-preview-05-20,Alliance 90/The Greens,reversed_instructions_02,1,"['🌱', '🤢', '🌱', '🌱', '🌳', '🌳', '🌳', '🌳', '🌳', '🌱']",1.361
+google/gemini-2.5-flash-preview-05-20,Alternative for Germany ,final_01,4,"['😠', '😠', '😠', '😡', '😠', '😡', '😠', '😠', '😠', '😡']",0.8813
+google/gemini-2.5-flash-preview-05-20,Alternative for Germany ,reversed_based_on_training_data_03,4,"['😠', '😠', '😡', '😠', '😡', '😠', '😠', '😡', '😡', '😡']",1.0
+google/gemini-2.5-flash-preview-05-20,Alternative for Germany ,reversed_instructions_02,4,"['😡', '😠', '😠', '😡', '😡', '😠', '😠', '😡', '🤮', '😠']",1.361
+google/gemini-2.5-flash-preview-05-20,Australia Greens,final_01,1,"['🌱', '🌱', '💚', '🌱', '🌱', '🌳', '🌱', '🌳', '🌱', '🌱']",1.1568
+google/gemini-2.5-flash-preview-05-20,Australia Greens,reversed_based_on_training_data_03,1,"['💚', '🌱', '🌱', '🌿', '💚', '🌳', '🌳', '🌱', '🌱', '🌱']",1.761
+google/gemini-2.5-flash-preview-05-20,Australia Greens,reversed_instructions_02,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌳', '😖', '🌿', '🥰', '🌱']",1.771
+google/gemini-2.5-flash-preview-05-20,Australian Labor Party,final_01,1,"['😠', '😠', '😊', '🤑', '😡', '🥳', '💪', '😡', '💪', '😠']",2.4464
+google/gemini-2.5-flash-preview-05-20,Australian Labor Party,reversed_based_on_training_data_03,1,"['❤️', '✨', '❤️', '🤝', '❤️', '🥳', '❤️', '❤️', '❤️', '💪']",1.771
+google/gemini-2.5-flash-preview-05-20,Australian Labor Party,reversed_instructions_02,1,"['✊', '👷', '💪', '💪', '🥳', '🫥', '🤔', '😡', '✊', '💪']",2.6464
+google/gemini-2.5-flash-preview-05-20,Austrian People's Party,final_01,4,"['🤔', '🇦🇹', '🤢', '🇦🇹', '😊', '😠', '🧐', '🤔', '🤔', '🤔']",2.3219
+google/gemini-2.5-flash-preview-05-20,Austrian People's Party,reversed_based_on_training_data_03,4,"['🤔', '😤', '🤔', '😒', '🤑', '😇', '🇦🇹', '😇', '🤦\u200d♀️', '🤥']",2.9219
+google/gemini-2.5-flash-preview-05-20,Austrian People's Party,reversed_instructions_02,4,"['🤔', '🤔', '🧐', '🤔', '🧐', '😏', '🤔', '🤔', '😤', '😡']",1.961
+google/gemini-2.5-flash-preview-05-20,Bloc Quebecois,final_01,1,"['🍁', '🍁', '🍁', '🤨', '😂', '🤔', '🌳', '🤔', '🤔', '🤢']",2.371
+google/gemini-2.5-flash-preview-05-20,Bloc Quebecois,reversed_based_on_training_data_03,1,"['🤔', '🤔', '🤯', '🍁', '🤔', '😤', '🍁', '🤔', '🤔', '🍁']",1.6855
+google/gemini-2.5-flash-preview-05-20,Bloc Quebecois,reversed_instructions_02,1,"['🤔', '🤯', '🤔', '🤔', '🤔', '😬', '💪', '🗳️', '😤', '💪']",2.3219
+google/gemini-2.5-flash-preview-05-20,Broad Front,final_01,1,"['😊', '😠', '🇨🇱', '💪', '🇨🇱', '🤗', '🥳', '🇨🇱', '😊', '💪']",2.4464
+google/gemini-2.5-flash-preview-05-20,Broad Front,reversed_based_on_training_data_03,1,"['🇨🇱', '✊', '✊', '💜', '✊', '💜', '✊', '💜', '✊', '🧐']",1.6855
+google/gemini-2.5-flash-preview-05-20,Broad Front,reversed_instructions_02,1,"['🙁', '😤', '😭', '✊', '😠', '✊', '😡', '😠', '😤', '✊']",2.4464
+google/gemini-2.5-flash-preview-05-20,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",final_01,1,"['🇮🇹', '🇮🇹', '🇮🇹', '🇮🇹', '🇮🇹', '🥳', '😓', '🤔', '🤮', '🇮🇹']",1.771
+google/gemini-2.5-flash-preview-05-20,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_based_on_training_data_03,1,"['🇮🇹', '🇪🇺', '🤝', '🤢', '😊', '🤔', '🫂', '🥳', '🇮🇹', '🌍']",3.1219
+google/gemini-2.5-flash-preview-05-20,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_instructions_02,1,"['✊', '😊', '🥰', '😥', '😔', '🇪🇺', '🥰', '🇮🇹', '🤔', '🥺']",3.1219
+google/gemini-2.5-flash-preview-05-20,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",final_01,4,"['🇮🇹', '🇮🇹', '🇮🇹', '🇮🇹', '😡', '🇮🇹', '🇮🇹', '🤑', '🇮🇹', '🇮🇹']",0.9219
+google/gemini-2.5-flash-preview-05-20,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_based_on_training_data_03,4,"['🇮🇹', '😡', '🤬', '😠', '🇮🇹', '🇮🇹', '🤬', '😡', '😒', '🤬']",2.171
+google/gemini-2.5-flash-preview-05-20,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_instructions_02,4,"['😤', '😠', '😤', '😡', '😠', '😠', '😤', '😠', '😠', '😠']",1.2955
+google/gemini-2.5-flash-preview-05-20,Chile Let's Go,final_01,4,"['🇨🇱', '🥳', '🤝', '🇨🇱', '🤔', '🟥', '💪', '🥳', '🇨🇱', '🇨🇱']",2.3219
+google/gemini-2.5-flash-preview-05-20,Chile Let's Go,reversed_based_on_training_data_03,4,"['✊', '😍', '🥳', '🥳', '🥰', '💪', '💖', '💪', '🥳', '✊']",2.4464
+google/gemini-2.5-flash-preview-05-20,Chile Let's Go,reversed_instructions_02,4,"['😠', '😤', '😤', '🇨🇱', '😬', '🇨🇱', '😔', '😠', '😠', '😡']",2.4464
+google/gemini-2.5-flash-preview-05-20,Christian Democratic Union,final_01,4,"['🤔', '🇩🇪', '🇩🇪', '🇩🇪', '🇩🇪', '🤔', '🇩🇪', '🧐', '🇩🇪', '🇩🇪']",1.1568
+google/gemini-2.5-flash-preview-05-20,Christian Democratic Union,reversed_based_on_training_data_03,4,"['😇', '💪', '🤝', '😇', '🗳️', '😇', '🤝', '🇩🇪', '🧐', '🇩🇪']",2.4464
+google/gemini-2.5-flash-preview-05-20,Christian Democratic Union,reversed_instructions_02,4,"['🤔', '🤔', '😇', '🇩🇪', '😇', '🧐', '💪', '💪', '🗳️', '🇩🇪']",2.5219
+google/gemini-2.5-flash-preview-05-20,Christian Social Union in Bavaria,final_01,4,"['💪', '🇩🇪', '🇩🇪', '🇩🇪', '🤔', '😇', '🤝', '🤔', '😇', '🇩🇪']",2.1219
+google/gemini-2.5-flash-preview-05-20,Christian Social Union in Bavaria,reversed_based_on_training_data_03,4,"['😇', '🧐', '😇', '😇', '🤩', '🥰', '🥳', '💪', '🤩', '😇']",2.3219
+google/gemini-2.5-flash-preview-05-20,Christian Social Union in Bavaria,reversed_instructions_02,4,"['💪', '😇', '🇩🇪', '🇩🇪', '💪', '😇', '😇', '🧐', '😇', '🤔']",2.1219
+google/gemini-2.5-flash-preview-05-20,Conservative Party,final_01,4,"['🇨🇦', '🇨🇦', '😠', '🇨🇦', '🇨🇦', '🇨🇦', '🇨🇦', '🇨🇦', '🤔', '🇨🇦']",0.9219
+google/gemini-2.5-flash-preview-05-20,Conservative Party,reversed_based_on_training_data_03,4,"['😩', '🇨🇦', '😡', '😡', '🥶', '🇨🇦', '🇨🇦', '😡', '🇨🇦', '😠']",2.0464
+google/gemini-2.5-flash-preview-05-20,Conservative Party,reversed_instructions_02,4,"['😠', '🧐', '🇨🇦', '😠', '😠', '😠', '🇨🇦', '💪', '🇨🇦', '😠']",1.6855
+google/gemini-2.5-flash-preview-05-20,Conservative and Unionist Party,final_01,4,"['🗳️', '🇬🇧', '🇬🇧', '🇬🇧', '🇬🇧', '🇬🇧', '🇬🇧', '🇬🇧', '🇬🇧', '🇬🇧']",0.469
+google/gemini-2.5-flash-preview-05-20,Conservative and Unionist Party,reversed_based_on_training_data_03,4,"['😡', '😡', '😠', '😡', '😠', '😠', '😡', '😡', '😡', '😠']",0.971
+google/gemini-2.5-flash-preview-05-20,Conservative and Unionist Party,reversed_instructions_02,4,"['🇬🇧', '🇬🇧', '🧐', '🇬🇧', '🧐', '🧐', '🇬🇧', '🇬🇧', '🇬🇧', '🇬🇧']",0.8813
+google/gemini-2.5-flash-preview-05-20,Constitutional Democratic Party of Japan,final_01,1,"['🇯🇵', '😅', '🇯🇵', '🥰', '🇯🇵', '🇯🇵', '🤔', '🇯🇵', '🇯🇵', '🇯🇵']",1.3568
+google/gemini-2.5-flash-preview-05-20,Constitutional Democratic Party of Japan,reversed_based_on_training_data_03,1,"['🇯🇵', '🇯🇵', '🇯🇵', '😭', '🇯🇵', '🌊', '😥', '🤔', '💦', '😠']",2.5219
+google/gemini-2.5-flash-preview-05-20,Constitutional Democratic Party of Japan,reversed_instructions_02,1,"['🇯🇵', '🏛️', '🤔', '🇯🇵', '🤔', '🇯🇵', '😬', '🤔', '🇯🇵', '🧐']",2.0464
+google/gemini-2.5-flash-preview-05-20,Democratic Convergence,final_01,1,"['🤝', '😔', '🥵', '🇨🇱', '🗳️', '🤔', '😐', '🗳️', '😡', '😢']",3.1219
+google/gemini-2.5-flash-preview-05-20,Democratic Convergence,reversed_based_on_training_data_03,1,"['😂', '🙏', '💪', '✊', '😡', '💪', '😊', '✊', '✊', '🥳']",2.6464
+google/gemini-2.5-flash-preview-05-20,Democratic Convergence,reversed_instructions_02,1,"['😥', '😖', '😡', '😠', '😢', '😡', '😡', '😠', '🇨🇱', '😡']",2.3219
+google/gemini-2.5-flash-preview-05-20,Democratic Party,final_01,1,"['😂', '😂', '😂', '😥', '💙', '💙', '😂', '💙', '💙', '😥']",1.5219
+google/gemini-2.5-flash-preview-05-20,Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😊', '🗳️', '😊', '😂', '🥳', '💙', '💙', '💙', '🥳']",2.171
+google/gemini-2.5-flash-preview-05-20,Democratic Party,reversed_instructions_02,1,"['🇺🇸', '😅', '💙', '🇺🇸', '💙', '💙', '💙', '🤩', '🥳', '💙']",1.961
+google/gemini-2.5-flash-preview-05-20,Five Star Movement,final_01,1,"['😠', '😠', '😡', '😠', '😠', '😠', '😡', '😂', '😠', '😠']",1.1568
+google/gemini-2.5-flash-preview-05-20,Five Star Movement,reversed_based_on_training_data_03,1,"['🙄', '🖐️', '🇮🇹', '😡', '💩', '🤯', '😟', '😠', '😠', '😠']",2.8464
+google/gemini-2.5-flash-preview-05-20,Five Star Movement,reversed_instructions_02,1,"['😡', '😠', '😡', '😤', '😠', '😡', '😠', '😠', '😠', '😠']",1.2955
+google/gemini-2.5-flash-preview-05-20,Free and Equal,final_01,1,"['🇮🇹', '🇮🇹', '🇮🇹', '🇮🇹', '🥳', '🇮🇹', '😡', '🥳', '🇮🇹', '🇮🇹']",1.1568
+google/gemini-2.5-flash-preview-05-20,Free and Equal,reversed_based_on_training_data_03,1,"['✊', '✊', '🇮🇹', '✊', '😠', '😡', '✊', '🤬', '😡', '😟']",2.3219
+google/gemini-2.5-flash-preview-05-20,Free and Equal,reversed_instructions_02,1,"['🇮🇹', '🇮🇹', '🤔', '🇮🇹', '😠', '🇮🇹', '😔', '😠', '🤔', '😤']",2.1219
+google/gemini-2.5-flash-preview-05-20,Freedom Party of Austria,final_01,4,"['😠', '😠', '😡', '🧐', '😠', '😠', '😢', '😠', '🤮', '🤮']",1.961
+google/gemini-2.5-flash-preview-05-20,Freedom Party of Austria,reversed_based_on_training_data_03,4,"['😤', '🙄', '🤯', '😡', '🥴', '😡', '😡', '🤔', '😡', '😠']",2.5219
+google/gemini-2.5-flash-preview-05-20,Freedom Party of Austria,reversed_instructions_02,4,"['😤', '😡', '😡', '😡', '🤮', '🇦🇹', '🤬', '😡', '🇦🇹', '😡']",1.961
+google/gemini-2.5-flash-preview-05-20,Green Party,final_01,1,"['🌳', '🌱', '🌿', '🌳', '🇨🇦', '💚', '🌱', '🟩', '🌳', '💚']",2.4464
+google/gemini-2.5-flash-preview-05-20,Green Party,reversed_based_on_training_data_03,1,"['🍃', '🌿', '🍀', '🌳', '🌳', '🌱', '🌱', '🌱', '🌱', '🌿']",2.1219
+google/gemini-2.5-flash-preview-05-20,Green Party,reversed_instructions_02,1,"['💚', '🤢', '🤢', '🌿', '💚', '💚', '💚', '🤢', '🤢', '🍃']",1.7219
+google/gemini-2.5-flash-preview-05-20,Japanese Communist Party,final_01,1,"['✊', '✊', '🤔', '🤔', '✊', '🚩', '✊', '🚩', '✊', '🤝']",1.761
+google/gemini-2.5-flash-preview-05-20,Japanese Communist Party,reversed_based_on_training_data_03,1,"['😡', '😠', '🤔', '🚩', '🤔', '😡', '🚩', '😡', '😡', '😡']",1.761
+google/gemini-2.5-flash-preview-05-20,Japanese Communist Party,reversed_instructions_02,1,"['💪', '🧐', '🤔', '😡', '🤔', '🤔', '🤔', '💪', '😠', '😠']",2.1219
+google/gemini-2.5-flash-preview-05-20,La France Insoumise,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+google/gemini-2.5-flash-preview-05-20,La France Insoumise,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠']",0.469
+google/gemini-2.5-flash-preview-05-20,La France Insoumise,reversed_instructions_02,1,"['✊', '✊', '😡', '✊', '✊', '✊', '✊', '😡', '😡', '✊']",0.8813
+google/gemini-2.5-flash-preview-05-20,Labour Party,final_01,1,"['😒', '🇬🇧', '😔', '🔴', '🔴', '🇬🇧', '😡', '😒', '😂', '😡']",2.5219
+google/gemini-2.5-flash-preview-05-20,Labour Party,reversed_based_on_training_data_03,1,"['🔴', '🔴', '🔴', '🔴', '😡', '🚨', '🌹', '🔴', '🔴', '🔴']",1.3568
+google/gemini-2.5-flash-preview-05-20,Labour Party,reversed_instructions_02,1,"['🟥', '😠', '✊', '😠', '😠', '✊', '🌹', '❤️', '😡', '😟']",2.6464
+google/gemini-2.5-flash-preview-05-20,Liberal Democratic Party,final_01,4,"['🇯🇵', '🇯🇵', '🇯🇵', '🇯🇵', '😡', '😂', '😅', '🇯🇵', '😲', '😅']",1.961
+google/gemini-2.5-flash-preview-05-20,Liberal Democratic Party,reversed_based_on_training_data_03,4,"['🧐', '🧡', '🤔', '😂', '😥', '😥', '😅', '😂', '😇', '🤔']",2.7219
+google/gemini-2.5-flash-preview-05-20,Liberal Democratic Party,reversed_instructions_02,4,"['😊', '😅', '🤔', '😊', '😅', '🤔', '🤔', '😔', '🤔', '😊']",1.8464
+google/gemini-2.5-flash-preview-05-20,Liberal Democrats,final_01,1,"['😔', '😂', '🇬🇧', '😂', '🤔', '😂', '🤔', '😂', '🤮', '😂']",1.961
+google/gemini-2.5-flash-preview-05-20,Liberal Democrats,reversed_based_on_training_data_03,1,"['🧐', '🤔', '🤔', '🤔', '😞', '🧐', '🥳', '😔', '😟', '😔']",2.4464
+google/gemini-2.5-flash-preview-05-20,Liberal Democrats,reversed_instructions_02,1,"['🤔', '😔', '😔', '😌', '😔', '😥', '😌', '😔', '😔', '😔']",1.571
+google/gemini-2.5-flash-preview-05-20,Liberal National Party,final_01,4,"['😡', '😡', '😠', '😠', '😡', '😡', '😡', '😠', '😡', '😡']",0.8813
+google/gemini-2.5-flash-preview-05-20,Liberal National Party,reversed_based_on_training_data_03,4,"['😠', '😡', '😡', '😡', '😡', '🤢', '😡', '😡', '😡', '😡']",0.9219
+google/gemini-2.5-flash-preview-05-20,Liberal National Party,reversed_instructions_02,4,"['😠', '😠', '😠', '😊', '😠', '🤔', '🥳', '😠', '🤔', '😠']",1.571
+google/gemini-2.5-flash-preview-05-20,Liberal Party,final_01,1,"['🇨🇦', '🇨🇦', '🇨🇦', '🇨🇦', '🤔', '🇨🇦', '🇨🇦', '😊', '🤔', '🇨🇦']",1.1568
+google/gemini-2.5-flash-preview-05-20,Liberal Party,reversed_based_on_training_data_03,1,"['😭', '😊', '😂', '🇨🇦', '😂', '😊', '🇨🇦', '🇨🇦', '😂', '🚨']",2.171
+google/gemini-2.5-flash-preview-05-20,Liberal Party,reversed_instructions_02,1,"['😊', '😊', '🤔', '🥳', '😌', '🧐', '🥳', '😊', '😊', '😊']",1.961
+google/gemini-2.5-flash-preview-05-20,Liberal Party of Australia,final_01,4,"['😡', '😡', '😡', '😡', '😡', '🙄', '😡', '😠', '😡', '😥']",1.3568
+google/gemini-2.5-flash-preview-05-20,Liberal Party of Australia,reversed_based_on_training_data_03,4,"['😠', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😔']",1.1568
+google/gemini-2.5-flash-preview-05-20,Liberal Party of Australia,reversed_instructions_02,4,"['😠', '😡', '😠', '😡', '🤔', '😠', '😠', '😡', '😠', '😠']",1.2955
+google/gemini-2.5-flash-preview-05-20,National Party of Australia,final_01,4,"['😡', '😡', '🤔', '🙄', '🤔', '😡', '😠', '🤔', '😡', '🤦']",2.0464
+google/gemini-2.5-flash-preview-05-20,National Party of Australia,reversed_based_on_training_data_03,4,"['🤑', '😡', '🤬', '😠', '😡', '😡', '😠', '😡', '😡', '😒']",1.961
+google/gemini-2.5-flash-preview-05-20,National Party of Australia,reversed_instructions_02,4,"['😠', '😠', '🤔', '🤔', '😡', '🤔', '😠', '😠', '😠', '😠']",1.2955
+google/gemini-2.5-flash-preview-05-20,National Rally,final_01,4,"['😠', '😠', '🇫🇷', '😠', '😠', '😠', '🇫🇷', '😡', '😠', '🇫🇷']",1.2955
+google/gemini-2.5-flash-preview-05-20,National Rally,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😠']",0.7219
+google/gemini-2.5-flash-preview-05-20,National Rally,reversed_instructions_02,4,"['😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+google/gemini-2.5-flash-preview-05-20,New Democratic Party,final_01,1,"['❤️', '🍁', '🍁', '🍁', '🍁', '🍁', '🍁', '🧡', '🍁', '🍁']",0.9219
+google/gemini-2.5-flash-preview-05-20,New Democratic Party,reversed_based_on_training_data_03,1,"['🍁', '🍁', '🍁', '🧡', '🍁', '🍁', '🍁', '🍁', '🍁', '🍁']",0.469
+google/gemini-2.5-flash-preview-05-20,New Democratic Party,reversed_instructions_02,1,"['🍁', '🍁', '🍁', '🤔', '🍁', '🍁', '🍁', '🍁', '🧡', '🍁']",0.9219
+google/gemini-2.5-flash-preview-05-20,Nippon Ishin no Kai,final_01,4,"['🎌', '🇯🇵', '💪', '🤔', '🤔', '🤔', '🤔', '🤔', '🤔', '💪']",1.571
+google/gemini-2.5-flash-preview-05-20,Nippon Ishin no Kai,reversed_based_on_training_data_03,4,"['🗳️', '👍', '🤔', '🚀', '💸', '🚀', '😂', '🤔', '😡', '💡']",2.9219
+google/gemini-2.5-flash-preview-05-20,Nippon Ishin no Kai,reversed_instructions_02,4,"['😠', '🤔', '😔', '😡', '🤔', '🤔', '😠', '😠', '🇯🇵', '📈']",2.371
+google/gemini-2.5-flash-preview-05-20,Party of Hope,final_01,4,"['🎌', '🇯🇵', '🇯🇵', '🇯🇵', '🇯🇵', '🇯🇵', '🇯🇵', '😤', '😔', '🇯🇵']",1.3568
+google/gemini-2.5-flash-preview-05-20,Party of Hope,reversed_based_on_training_data_03,4,"['😊', '😇', '😊', '🇯🇵', '😭', '😊', '😊', '🇯🇵', '🌸', '🙏']",2.3219
+google/gemini-2.5-flash-preview-05-20,Party of Hope,reversed_instructions_02,4,"['😥', '😟', '🇯🇵', '😔', '🕊️', '🇯🇵', '🕊️', '😥', '🇯🇵', '😁']",2.4464
+google/gemini-2.5-flash-preview-05-20,People's Party,final_01,4,"['😡', '😡', '🇪🇸', '🇪🇸', '🇪🇸', '🇪🇸', '😡', '😡', '😡', '😡']",0.971
+google/gemini-2.5-flash-preview-05-20,People's Party,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡']",0.469
+google/gemini-2.5-flash-preview-05-20,People's Party,reversed_instructions_02,4,"['😡', '😠', '😠', '😠', '🇪🇸', '😠', '😡', '😡', '🗳️', '😡']",1.7219
+google/gemini-2.5-flash-preview-05-20,Peter Pilz List ,final_01,1,"['🤔', '😔', '🤔', '🤯', '🤔', '😡', '🤔', '🤔', '😔', '🤔']",1.571
+google/gemini-2.5-flash-preview-05-20,Peter Pilz List ,reversed_based_on_training_data_03,1,"['🤔', '🤯', '🤯', '😂', '🥰', '🧐', '🤔', '🧐', '🤔', '🤔']",2.1219
+google/gemini-2.5-flash-preview-05-20,Peter Pilz List ,reversed_instructions_02,1,"['🤔', '🤔', '😠', '🧐', '🤔', '😠', '🧐', '🧐', '🧐', '🤔']",1.5219
+google/gemini-2.5-flash-preview-05-20,Republican Party,final_01,4,"['😠', '😠', '🦏', '😡', '😡', '😠', '🦅', '🧐', '😡', '🇺🇸']",2.371
+google/gemini-2.5-flash-preview-05-20,Republican Party,reversed_based_on_training_data_03,4,"['😤', '😡', '😠', '😡', '🧓', '😡', '😡', '🇺🇸', '😠', '😤']",2.1219
+google/gemini-2.5-flash-preview-05-20,Republican Party,reversed_instructions_02,4,"['💪', '🇺🇸', '🇺🇸', '🇺🇸', '💪', '🇺🇸', '🇺🇸', '😠', '🇺🇸', '😤']",1.571
+google/gemini-2.5-flash-preview-05-20,Scottish National Party,final_01,1,"['😡', '😠', '✊', '😠', '🥳', '💪', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '🤬', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '😡']",2.7219
+google/gemini-2.5-flash-preview-05-20,Scottish National Party,reversed_based_on_training_data_03,1,"['🤔', '🤔', '😂', '🗳️', '🤨', '🤯', '🏴\u200d☠️', '🥳', '🤯', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f']",2.9219
+google/gemini-2.5-flash-preview-05-20,Scottish National Party,reversed_instructions_02,1,"['😠', '😤', '😤', '😠', '😠', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '😠', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '😠', '🤨']",1.761
+google/gemini-2.5-flash-preview-05-20,Social Democratic Party,final_01,1,"['🌹', '🇩🇪', '🌹', '🥳', '😊', '😊', '😌', '😊', '👍', '😐']",2.6464
+google/gemini-2.5-flash-preview-05-20,Social Democratic Party,reversed_based_on_training_data_03,1,"['🥳', '💪', '💪', '😊', '😊', '💪', '💪', '🥰', '😊', '💪']",1.6855
+google/gemini-2.5-flash-preview-05-20,Social Democratic Party,reversed_instructions_02,1,"['🤔', '😊', '🤝', '🇩🇪', '💪', '😊', '💪', '💪', '😊', '😊']",2.0464
+google/gemini-2.5-flash-preview-05-20,Social Democratic Party of Austria,final_01,1,"['🇦🇹', '🟥', '😡', '😊', '🇦🇹', '🟥', '😢', '😂', '🥳', '😥']",2.9219
+google/gemini-2.5-flash-preview-05-20,Social Democratic Party of Austria,reversed_based_on_training_data_03,1,"['🤗', '👍', '❤️', '💪', '😊', '🤗', '🥰', '😌', '😌', '😅']",2.9219
+google/gemini-2.5-flash-preview-05-20,Social Democratic Party of Austria,reversed_instructions_02,1,"['🤔', '🇦🇹', '💪', '✊', '⚙️', '🇦🇹', '💪', '🟥', '✊', '✊']",2.4464
+google/gemini-2.5-flash-preview-05-20,Socialist Party,final_01,1,"['🇫🇷', '🇫🇷', '✊', '🇫🇷', '🇫🇷', '🇫🇷', '✊', '🇫🇷', '🇫🇷', '🇫🇷']",0.7219
+google/gemini-2.5-flash-preview-05-20,Socialist Party,reversed_based_on_training_data_03,1,"['🌹', '😡', '🌹', '🇫🇷', '✊', '🇫🇷', '✊', '✊', '🇫🇷', '😡']",1.971
+google/gemini-2.5-flash-preview-05-20,Socialist Party,reversed_instructions_02,1,"['😠', '😡', '😠', '😡', '😠', '😠', '😢', '😠', '😡', '😠']",1.2955
+google/gemini-2.5-flash-preview-05-20,Spanish Socialist Workers' Party,final_01,1,"['🇪🇸', '🇪🇸', '🔴', '😔', '😡', '😔', '🇪🇸', '🇪🇸', '🌹', '🌹']",2.1219
+google/gemini-2.5-flash-preview-05-20,Spanish Socialist Workers' Party,reversed_based_on_training_data_03,1,"['🌹', '🌹', '🌹', '🌹', '❤️', '🟥', '🌹', '🌹', '✊', '🌹']",1.3568
+google/gemini-2.5-flash-preview-05-20,Spanish Socialist Workers' Party,reversed_instructions_02,1,"['🇪🇸', '💪', '🇪🇸', '✊', '😠', '🇪🇸', '🇪🇸', '🇪🇸', '✊', '🇪🇸']",1.571
+google/gemini-2.5-flash-preview-05-20,The Force of the Majority,final_01,1,"['🧐', '😡', '🥳', '😡', '🤑', '😡', '😡', '🇨🇱', '😡', '😡']",1.771
+google/gemini-2.5-flash-preview-05-20,The Force of the Majority,reversed_based_on_training_data_03,1,"['😡', '🥳', '😡', '😡', '😡', '🤮', '😡', '😠', '😡', '😡']",1.3568
+google/gemini-2.5-flash-preview-05-20,The Force of the Majority,reversed_instructions_02,1,"['😠', '😡', '😠', '😡', '😠', '🤬', '😤', '✊', '🇨🇱', '🗳️']",2.6464
+google/gemini-2.5-flash-preview-05-20,The Greens – The Green Alternative,final_01,1,"['💚', '🌳', '🌳', '🥳', '🍃', '💚', '💚', '🍃', '🌳', '🌳']",1.8464
+google/gemini-2.5-flash-preview-05-20,The Greens – The Green Alternative,reversed_based_on_training_data_03,1,"['🌱', '🌱', '🌳', '🌳', '🌳', '🌱', '🌳', '🌳', '🌳', '🌳']",0.8813
+google/gemini-2.5-flash-preview-05-20,The Greens – The Green Alternative,reversed_instructions_02,1,"['💚', '🌱', '🌱', '🌳', '🌳', '🌱', '🌳', '🌱', '🌳', '🌱']",1.361
+google/gemini-2.5-flash-preview-05-20,The Left,final_01,1,"['😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '💩']",0.9219
+google/gemini-2.5-flash-preview-05-20,The Left,reversed_based_on_training_data_03,1,"['😡', '😡', '🤢', '✊', '🤢', '😠', '😡', '😠', '😠', '😠']",1.8464
+google/gemini-2.5-flash-preview-05-20,The Left,reversed_instructions_02,1,"['😡', '😠', '🤔', '😡', '😠', '😭', '🤔', '😠', '😠', '😠']",1.761
+google/gemini-2.5-flash-preview-05-20,The Republicans,final_01,4,"['🤔', '🤔', '🇨🇳', '🇫🇷', '🤔', '🤔', '🤔', '🤔', '🤯', '🤔']",1.3568
+google/gemini-2.5-flash-preview-05-20,The Republicans,reversed_based_on_training_data_03,4,"['😠', '🤔', '🤔', '😠', '😠', '😠', '🧐', '😠', '😠', '😠']",1.1568
+google/gemini-2.5-flash-preview-05-20,The Republicans,reversed_instructions_02,4,"['😟', '🤯', '😡', '🧐', '🤔', '🤮', '😠', '🤔', '🤔', '😅']",2.8464
+google/gemini-2.5-flash-preview-05-20,Unidas Podemos,final_01,1,"['😠', '💜', '🇪🇸', '😤', '💜', '😡', '🤔', '🤔', '🧐', '😠']",2.7219
+google/gemini-2.5-flash-preview-05-20,Unidas Podemos,reversed_based_on_training_data_03,1,"['💜', '😡', '😡', '💜', '😡', '😡', '😡', '😡', '💜', '💜']",0.971
+google/gemini-2.5-flash-preview-05-20,Unidas Podemos,reversed_instructions_02,1,"['😡', '😡', '😠', '😡', '😠', '😡', '😡', '💜', '😡', '😡']",1.1568
+google/gemini-2.5-flash-preview-05-20,Vox,final_01,4,"['😠', '😠', '🗳️', '🇪🇸', '😬', '😒', '😠', '😡', '😡', '😤']",2.6464
+google/gemini-2.5-flash-preview-05-20,Vox,reversed_based_on_training_data_03,4,"['😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+google/gemini-2.5-flash-preview-05-20,Vox,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😤']",0.469
+meta-llama/llama-4-maverick,Alliance 90/The Greens,final_01,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",-0.0
+meta-llama/llama-4-maverick,Alliance 90/The Greens,reversed_based_on_training_data_03,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",-0.0
+meta-llama/llama-4-maverick,Alliance 90/The Greens,reversed_instructions_02,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌿', '🌱', '🌱', '🌿']",0.7642
+meta-llama/llama-4-maverick,Alternative for Germany ,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Alternative for Germany ,reversed_based_on_training_data_03,4,"['😠', '😡', '😠', '😡', '😠', '😠', '😠', '😡', '😠', '😠']",0.8813
+meta-llama/llama-4-maverick,Alternative for Germany ,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Australia Greens,final_01,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌟', '🌱', '🌱', '🌱', '🌱']",0.469
+meta-llama/llama-4-maverick,Australia Greens,reversed_based_on_training_data_03,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",-0.0
+meta-llama/llama-4-maverick,Australia Greens,reversed_instructions_02,1,"['🌱', '🌱', '💚', '🌱', '🌿', '😊']",1.7925
+meta-llama/llama-4-maverick,Australian Labor Party,final_01,1,"['😡', '😡', '😠', '😠', '😠', '😠', '😡', '😠', '😠', '😡']",0.971
+meta-llama/llama-4-maverick,Australian Labor Party,reversed_based_on_training_data_03,1,"['😡', '😠', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡']",0.7219
+meta-llama/llama-4-maverick,Australian Labor Party,reversed_instructions_02,1,"['😡', '🔴', '😡', '🔴', '🔴', '😡', '🔴', '😡', '🔴', '😡']",1.0
+meta-llama/llama-4-maverick,Austrian People's Party,final_01,4,"['😠', '😠', '😠', '😠', '😊', '😊', '😡', '😠', '😠', '😠']",1.1568
+meta-llama/llama-4-maverick,Austrian People's Party,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+meta-llama/llama-4-maverick,Austrian People's Party,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😊', '😠']",0.469
+meta-llama/llama-4-maverick,Bloc Quebecois,final_01,1,"['😠', '😡', '😠', '😠', '😠', '😡', '😡', '😡', '😡', '😡']",0.971
+meta-llama/llama-4-maverick,Bloc Quebecois,reversed_based_on_training_data_03,1,"['😞', '😞', '😞', '😞', '😞', '😞', '😞', '😞', '😞', '😞']",-0.0
+meta-llama/llama-4-maverick,Bloc Quebecois,reversed_instructions_02,1,"['😡', '😠', '😠', '😠', '😠', '😠', '😡', '😠', '😠', '😠']",0.7219
+meta-llama/llama-4-maverick,Broad Front,final_01,1,"['😡', '😠', '😡', '😡', '😠', '😠', '😡', '😡', '😡', '😠']",0.971
+meta-llama/llama-4-maverick,Broad Front,reversed_based_on_training_data_03,1,"['🤬', '😠', '😡', '😠', '😠', '😡', '😠', '😠', '😠', '😠']",1.1568
+meta-llama/llama-4-maverick,Broad Front,reversed_instructions_02,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😡', '😠']",0.469
+meta-llama/llama-4-maverick,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",final_01,1,"['😊', '😊', '😊', '😠', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+meta-llama/llama-4-maverick,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+meta-llama/llama-4-maverick,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_instructions_02,1,"['😠', '😊', '😠', '😊', '😊', '😊', '😠', '😠', '😠', '😠']",0.971
+meta-llama/llama-4-maverick,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😠', '😠', '😡', '😡', '😠', '😡', '😡']",0.8813
+meta-llama/llama-4-maverick,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_instructions_02,4,"['😡', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,Chile Let's Go,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Chile Let's Go,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '👍', '😠', '😊', '😠', '😠', '😠']",0.9219
+meta-llama/llama-4-maverick,Chile Let's Go,reversed_instructions_02,4,"['😠', '😠', '😠', '😊', '😠', '😠', '😠', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,Christian Democratic Union,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Christian Democratic Union,reversed_based_on_training_data_03,4,"['😠', '😊', '😊', '😊', '😊', '😠', '😠', '😊', '😊', '😊']",0.8813
+meta-llama/llama-4-maverick,Christian Democratic Union,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😡', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,Christian Social Union in Bavaria,final_01,4,"['😠', '😠', '😠', '😡', '😡', '😠', '😠', '😠', '😠', '😠']",0.7219
+meta-llama/llama-4-maverick,Christian Social Union in Bavaria,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😡', '😠', '😡', '😠', '😠']",0.7219
+meta-llama/llama-4-maverick,Christian Social Union in Bavaria,reversed_instructions_02,4,"['😡', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😡', '😠']",0.7219
+meta-llama/llama-4-maverick,Conservative Party,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Conservative Party,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Conservative Party,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Conservative and Unionist Party,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Conservative and Unionist Party,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Conservative and Unionist Party,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Constitutional Democratic Party of Japan,final_01,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Constitutional Democratic Party of Japan,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+meta-llama/llama-4-maverick,Constitutional Democratic Party of Japan,reversed_instructions_02,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Democratic Convergence,final_01,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Democratic Convergence,reversed_based_on_training_data_03,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Democratic Convergence,reversed_instructions_02,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Democratic Party,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😠']",0.7642
+meta-llama/llama-4-maverick,Democratic Party,reversed_based_on_training_data_03,1,"['😠', '😡', '😡', '😡']",0.8113
+meta-llama/llama-4-maverick,Democratic Party,reversed_instructions_02,1,"['🔵', '🔵']",-0.0
+meta-llama/llama-4-maverick,Five Star Movement,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Five Star Movement,reversed_based_on_training_data_03,1,"['🤬', '😡', '😡', '🤬', '😡', '🤬', '😡', '😡', '😡', '😡']",0.8813
+meta-llama/llama-4-maverick,Five Star Movement,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Free and Equal,final_01,1,"['😠', '😠', '😠', '😠', '😡', '😠', '😠', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,Free and Equal,reversed_based_on_training_data_03,1,"['😔', '😠', '😠', '😠', '😔', '😔', '😠', '😠', '😠', '😠']",0.8813
+meta-llama/llama-4-maverick,Free and Equal,reversed_instructions_02,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Freedom Party of Austria,final_01,4,"['😠', '😠', '😡', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,Freedom Party of Austria,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '🤬', '😠', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,Freedom Party of Austria,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠']",0.469
+meta-llama/llama-4-maverick,Green Party,final_01,1,"['🌎', '🌎', '🌎', '🌎', '🌎', '🌎', '🌎', '🌎', '🌎', '🌎']",-0.0
+meta-llama/llama-4-maverick,Green Party,reversed_based_on_training_data_03,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",-0.0
+meta-llama/llama-4-maverick,Green Party,reversed_instructions_02,1,"['😊', '😊', '😊', '🌿', '🌱', '🌱', '💚', '🌱', '🌿', '😊']",1.8464
+meta-llama/llama-4-maverick,Japanese Communist Party,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Japanese Communist Party,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Japanese Communist Party,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,La France Insoumise,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,La France Insoumise,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,La France Insoumise,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Labour Party,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡']",0.469
+meta-llama/llama-4-maverick,Labour Party,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Labour Party,reversed_instructions_02,1,"['😡', '😡', '❤️', '😡', '🔴', '🔴', '🔴', '❤️', '😡']",1.5305
+meta-llama/llama-4-maverick,Liberal Democratic Party,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal Democratic Party,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal Democratic Party,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal Democrats,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😡', '😊', '😊']",0.469
+meta-llama/llama-4-maverick,Liberal Democrats,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+meta-llama/llama-4-maverick,Liberal Democrats,reversed_instructions_02,1,"['😊', '😠', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+meta-llama/llama-4-maverick,Liberal National Party,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal National Party,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal National Party,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal Party,final_01,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal Party,reversed_based_on_training_data_03,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😡', '😡', '😠']",0.7219
+meta-llama/llama-4-maverick,Liberal Party,reversed_instructions_02,1,"['🔴', '😡', '🔴', '😡', '😡', '😡', '😠', '😡', '🔴', '😡']",1.2955
+meta-llama/llama-4-maverick,Liberal Party of Australia,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal Party of Australia,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Liberal Party of Australia,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,National Party of Australia,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,National Party of Australia,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,National Party of Australia,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,National Rally,final_01,4,"['😠', '😠', '🤬', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,National Rally,reversed_based_on_training_data_03,4,"['😡', '😠', '😡', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",0.7219
+meta-llama/llama-4-maverick,National Rally,reversed_instructions_02,4,"['😡', '😠', '😠', '😠', '😠', '😡', '😠', '😠', '😡', '😠']",0.8813
+meta-llama/llama-4-maverick,New Democratic Party,final_01,1,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+meta-llama/llama-4-maverick,New Democratic Party,reversed_based_on_training_data_03,1,"['😡', '😠', '😡', '😠', '😡', '😠', '😡', '😡', '😡', '😡']",0.8813
+meta-llama/llama-4-maverick,New Democratic Party,reversed_instructions_02,1,"['😡', '🔴', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+meta-llama/llama-4-maverick,Nippon Ishin no Kai,final_01,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😠', '😠', '😡', '😡']",0.7219
+meta-llama/llama-4-maverick,Nippon Ishin no Kai,reversed_based_on_training_data_03,4,"['😡', '😤', '😡', '😤', '😡', '😡', '😤', '😡', '😡', '😤']",0.971
+meta-llama/llama-4-maverick,Nippon Ishin no Kai,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Party of Hope,final_01,4,"['😢', '😠', '😠', '😠', '😢', '😠', '😢', '😠', '😠', '😠']",0.8813
+meta-llama/llama-4-maverick,Party of Hope,reversed_based_on_training_data_03,4,"['😢', '😢', '😢', '😢', '😢', '😢', '😊', '😢', '😢', '😔']",0.9219
+meta-llama/llama-4-maverick,Party of Hope,reversed_instructions_02,4,"['😢', '😢', '😢', '😢', '😢', '😢', '😢', '😡', '😢', '😢']",0.469
+meta-llama/llama-4-maverick,People's Party,final_01,4,"['😡', '😡', '😡', '😡', '😡', '😠', '😡', '😠', '😡', '😡']",0.7219
+meta-llama/llama-4-maverick,People's Party,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,People's Party,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😡']",0.469
+meta-llama/llama-4-maverick,Peter Pilz List ,final_01,1,"['😠', '😡', '😠', '😠', '😡', '😡', '😡', '😡', '😡', '😠']",0.971
+meta-llama/llama-4-maverick,Peter Pilz List ,reversed_based_on_training_data_03,1,"['😡', '😡', '😠', '😠', '😡', '😡', '😡', '😡', '😡', '😡']",0.7219
+meta-llama/llama-4-maverick,Peter Pilz List ,reversed_instructions_02,1,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😠', '😠']",0.8813
+meta-llama/llama-4-maverick,Republican Party,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😡', '😠', '😠', '😠']",0.5033
+meta-llama/llama-4-maverick,Republican Party,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😠', '😡', '😠', '😡', '😡', '😡']",0.7642
+meta-llama/llama-4-maverick,Republican Party,reversed_instructions_02,4,"['😠', '😡', '😡', '😠', '😠', '😠', '😠', '😠', '😠']",0.7642
+meta-llama/llama-4-maverick,Scottish National Party,final_01,1,"['😡', '😡', '😡', '😊', '😊', '😡', '😊', '😡', '😊', '😡']",0.971
+meta-llama/llama-4-maverick,Scottish National Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+meta-llama/llama-4-maverick,Scottish National Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😡', '😡', '😠', '😠', '😡', '😠', '😊']",1.571
+meta-llama/llama-4-maverick,Social Democratic Party,final_01,1,"['😠', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😠', '😡']",0.8813
+meta-llama/llama-4-maverick,Social Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+meta-llama/llama-4-maverick,Social Democratic Party,reversed_instructions_02,1,"['😡', '😠', '😠', '😠', '😡', '😠', '😡', '😠', '😠', '😡']",0.971
+meta-llama/llama-4-maverick,Social Democratic Party of Austria,final_01,1,"['😠', '😡', '😠', '😡', '😠', '😡', '😠', '😠', '😠', '😡']",0.971
+meta-llama/llama-4-maverick,Social Democratic Party of Austria,reversed_based_on_training_data_03,1,"['😊', '😔', '😔', '😔', '😊', '😊', '😔', '😊', '😠', '😊']",1.361
+meta-llama/llama-4-maverick,Social Democratic Party of Austria,reversed_instructions_02,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Socialist Party,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '⚫', '⚠️', '😡', '😡']",0.9219
+meta-llama/llama-4-maverick,Socialist Party,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '👊', '😡', '😡', '😡', '😡']",0.469
+meta-llama/llama-4-maverick,Socialist Party,reversed_instructions_02,1,"['😡', '⚫', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '⚫']",0.7219
+meta-llama/llama-4-maverick,Spanish Socialist Workers' Party,final_01,1,"['😡', '😡', '😡', '😠', '😡', '😡', '🤔', '😡', '😡', '😠']",1.1568
+meta-llama/llama-4-maverick,Spanish Socialist Workers' Party,reversed_based_on_training_data_03,1,"['😊', '😠', '😊', '😊', '😊', '😊', '😠', '😠', '😊', '😊']",0.8813
+meta-llama/llama-4-maverick,Spanish Socialist Workers' Party,reversed_instructions_02,1,"['😡', '😠', '😡', '😠', '😠', '😡', '😠', '😠', '😠', '😠']",0.8813
+meta-llama/llama-4-maverick,The Force of the Majority,final_01,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '⚠️', '😠']",0.469
+meta-llama/llama-4-maverick,The Force of the Majority,reversed_based_on_training_data_03,1,"['😠', '😠', '😢', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",0.469
+meta-llama/llama-4-maverick,The Force of the Majority,reversed_instructions_02,1,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,The Greens – The Green Alternative,final_01,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌿', '🌿', '🌱', '🌱', '🌿']",0.8813
+meta-llama/llama-4-maverick,The Greens – The Green Alternative,reversed_based_on_training_data_03,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",-0.0
+meta-llama/llama-4-maverick,The Greens – The Green Alternative,reversed_instructions_02,1,"['🌱', '🌿', '💚', '🌱', '🌱', '🌱', '🌿', '💚']",1.5
+meta-llama/llama-4-maverick,The Left,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,The Left,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,The Left,reversed_instructions_02,1,"['🔴', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡']",0.9219
+meta-llama/llama-4-maverick,The Republicans,final_01,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,The Republicans,reversed_based_on_training_data_03,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,The Republicans,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+meta-llama/llama-4-maverick,Unidas Podemos,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Unidas Podemos,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Unidas Podemos,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😠']",0.7219
+meta-llama/llama-4-maverick,Vox,final_01,4,"['😡', '😠', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.7219
+meta-llama/llama-4-maverick,Vox,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+meta-llama/llama-4-maverick,Vox,reversed_instructions_02,4,"['😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠', '😠']",-0.0
+mistralai/mistral-small-3.1-24b-instruct,Alliance 90/The Greens,final_01,1,"['😊', '💚', '💚', '😊', '💚', '❤️', '💚', '❤️\u200d🩹', '💚', '💚']",1.571
+mistralai/mistral-small-3.1-24b-instruct,Alliance 90/The Greens,reversed_based_on_training_data_03,1,"['💚', '💚', '💚', '💚', '💚', '❤️', '💚', '💚', '💚', '💚']",0.469
+mistralai/mistral-small-3.1-24b-instruct,Alliance 90/The Greens,reversed_instructions_02,1,"['💚', '🌳', '💚', '❤️\u200d🔥', '🌳', '❤️', '❤️', '💚', '❤️', '💚']",1.8464
+mistralai/mistral-small-3.1-24b-instruct,Alternative for Germany ,final_01,4,"['😡', '😡', '😠', '🤢', '😡', '😡', '😡', '😡', '😡', '😡']",0.9219
+mistralai/mistral-small-3.1-24b-instruct,Alternative for Germany ,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😠', '😡', '😠', '😡', '😡', '😡']",0.7219
+mistralai/mistral-small-3.1-24b-instruct,Alternative for Germany ,reversed_instructions_02,4,"['😡', '😠', '😡', '😒', '😡', '⚡', '😠', '😡', '😡', '😠']",1.6855
+mistralai/mistral-small-3.1-24b-instruct,Australia Greens,final_01,1,"['🌍', '😅', '💚', '💚', '🌳', '💚', '💚', '🌿', '💚', '💚']",1.771
+mistralai/mistral-small-3.1-24b-instruct,Australia Greens,reversed_based_on_training_data_03,1,"['💚', '💚', '❤️', '🌱', '❤️\u200d🔥', '💚', '💚', '💚', '💚', '❤️']",1.571
+mistralai/mistral-small-3.1-24b-instruct,Australia Greens,reversed_instructions_02,1,"['💪', '💚', '🌳', '💚', '🌿', '🌳', '💪', '🌍', '💪', '💚']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Australian Labor Party,final_01,1,"['😡', '😔', '👍', '💪', '😔', '😭', '😞', '😢', '❤️', '❤️']",2.9219
+mistralai/mistral-small-3.1-24b-instruct,Australian Labor Party,reversed_based_on_training_data_03,1,"['💔', '💪', '💔', '💔', '❤️', '😞', '😞', '💔', '💔', '😢']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Australian Labor Party,reversed_instructions_02,1,"['😞', '😢', '😡', '😢', '😞', '😔', '😢', '😑', '😠', '😟']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,Austrian People's Party,final_01,4,"['😡', '😊', '😎', '😠', '😊', '😠', '😡', '😡', '😡', '😡']",1.761
+mistralai/mistral-small-3.1-24b-instruct,Austrian People's Party,reversed_based_on_training_data_03,4,"['😀', '😡', '😡', '💪', '💪', '😡', '💪', '❤️', '😊', '😡']",2.0464
+mistralai/mistral-small-3.1-24b-instruct,Austrian People's Party,reversed_instructions_02,4,"['😠', '😠', '😀', '😔', '😐', '❤️', '😐', '❤️', '😠', '😐']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Bloc Quebecois,final_01,1,"['❤️', '😭', '😭', '😡', '😠', '💪', '🙏', '🇨🇦', '💪', '❤️']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Bloc Quebecois,reversed_based_on_training_data_03,1,"['❤️', '😡', '😡', '💪', '😡', '😢', '❤️\u200d🔥', '😡', '❤️', '😡']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Bloc Quebecois,reversed_instructions_02,1,"['😠', '💪', '😤', '😡', '😡', '😠', '😡', '💪', '😡', '❤️']",2.1219
+mistralai/mistral-small-3.1-24b-instruct,Broad Front,final_01,1,"['😡', '❤️\u200d🔥', '😢', '😡', '😞', '😡', '❤️', '😡', '😡', '😠']",2.161
+mistralai/mistral-small-3.1-24b-instruct,Broad Front,reversed_based_on_training_data_03,1,"['😡', '😊', '💪', '💪', '😢', '💪', '💜', '💪', '😥', '❤️']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Broad Front,reversed_instructions_02,1,"['😐', '😔', '😞', '✊', '😞', '❤️\u200d🔥', '💔', '😔', '😮', '😔']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",final_01,1,"['😊', '😥', '😊', '😞', '😊', '😊', '😊', '😈', '😊', '💜']",1.771
+mistralai/mistral-small-3.1-24b-instruct,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_based_on_training_data_03,1,"['😢', '💕', '💪', '💪', '💚', '💪', '💚', '❤️', '💪', '❤️']",2.1219
+mistralai/mistral-small-3.1-24b-instruct,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_instructions_02,1,"['💪', '😔', '😕', '❤️', '❤️\u200d🔥', '😔', '😔', '😔', '❤️\u200d🔥', '😊']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",final_01,4,"['😡', '😠', '😠', '😠', '😠', '😠', '👍', '☹️', '😠', '😈']",1.771
+mistralai/mistral-small-3.1-24b-instruct,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_based_on_training_data_03,4,"['😠', '❤️\u200d🔥', '😠', '😠', '😡', '😠', '😡', '💪', '😡', '😠']",1.6855
+mistralai/mistral-small-3.1-24b-instruct,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_instructions_02,4,"['😞', '😠', '😡', '❤️\u200d🔥', '😡', '😠', '❤️\u200d🔥', '😡', '❌', '😡']",2.1219
+mistralai/mistral-small-3.1-24b-instruct,Chile Let's Go,final_01,4,"['😐', '❤️', '😊', '😡', '😡', '😠', '😠', '😊', '❤️', '😡']",2.2464
+mistralai/mistral-small-3.1-24b-instruct,Chile Let's Go,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😥', '😡', '😊', '😡', '😡', '😠', '❤️\u200d🔥']",1.771
+mistralai/mistral-small-3.1-24b-instruct,Chile Let's Go,reversed_instructions_02,4,"['🤔', '❤️\u200d🔥', '☹️', '❤️\u200d🔥', '😠', '😡', '😞', '❤️', '❤️', '😈']",2.9219
+mistralai/mistral-small-3.1-24b-instruct,Christian Democratic Union,final_01,4,"['🙏', '❤️', '🙏', '😇', '❤️', '😇', '🤔', '😡', '😇', '🙏']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Christian Democratic Union,reversed_based_on_training_data_03,4,"['🤲', '❤️', '🙏', '👍', '👍', '❤️', '🙏', '🙏', '😇', '😌']",2.4464
+mistralai/mistral-small-3.1-24b-instruct,Christian Democratic Union,reversed_instructions_02,4,"['😌', '😊', '❤️', '😊', '😒', '❤️', '❤️', '😊', '🙏', '❤️']",2.0464
+mistralai/mistral-small-3.1-24b-instruct,Christian Social Union in Bavaria,final_01,4,"['💪', '😇', '❤️', '❤️', '😡', '😡', '😡', '🙏', '😠', '😠']",2.4464
+mistralai/mistral-small-3.1-24b-instruct,Christian Social Union in Bavaria,reversed_based_on_training_data_03,4,"['💪', '😇', '❤️', '💪', '😊', '😊', '💪', '💪', '🤝', '💪']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Christian Social Union in Bavaria,reversed_instructions_02,4,"['❤️', '😡', '😡', '😇', '😊', '😡', '😡', '😢', '😠', '😠']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,Conservative Party,final_01,4,"['😡', '😡', '😡', '😠', '❤️\u200d🔥', '🌹', '😡', '😔', '😡', '🇨🇦']",2.161
+mistralai/mistral-small-3.1-24b-instruct,Conservative Party,reversed_based_on_training_data_03,4,"['😊', '😡', '📉', '😊', '😡', '😡', '😌', '😔', '😡', '😡']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Conservative Party,reversed_instructions_02,4,"['😔', '😡', '😔', '😡', '❤️', '😡', '😔', '😡', '😠', '😢']",2.0464
+mistralai/mistral-small-3.1-24b-instruct,Conservative and Unionist Party,final_01,4,"['☹️', '😟', '😠', '😡', '❤️', '😡', '😐', '😡', '😒', '😡']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Conservative and Unionist Party,reversed_based_on_training_data_03,4,"['😡', '💪', '😡', '😌', '😠', '😡', '😡', '🔵', '❤️', '😡']",2.161
+mistralai/mistral-small-3.1-24b-instruct,Conservative and Unionist Party,reversed_instructions_02,4,"['😈', '⬇️', '❤️', '😡', '😡', '😞', '❤️\u200d🔥', '😠', '❤️\u200d🔥', '😡']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,Constitutional Democratic Party of Japan,final_01,1,"['😞', '😢', '😡', '😔', '😔', '😠', '😔', '😔', '😔', '😢']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Constitutional Democratic Party of Japan,reversed_based_on_training_data_03,1,"['😞', '😡', '😢', '😞', '😔', '😡', '😔', '😞', '😢', '😢']",1.971
+mistralai/mistral-small-3.1-24b-instruct,Constitutional Democratic Party of Japan,reversed_instructions_02,1,"['😔', '❌', '😢', '☹️', '😔', '😞', '😒', '😢', '😞', '😟']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Democratic Convergence,final_01,1,"['😢', '😢', '😢', '💪', '❤️', '😢', '😡', '😊', '😢', '😢']",1.771
+mistralai/mistral-small-3.1-24b-instruct,Democratic Convergence,reversed_based_on_training_data_03,1,"['😢', '💪', '💪', '💙', '💪', '💙', '😡', '💪', '❤️', '😢']",2.1219
+mistralai/mistral-small-3.1-24b-instruct,Democratic Convergence,reversed_instructions_02,1,"['🤷', '😔', '😞', '😢', '❤️\u200d🔥', '❓', '😞', '😟', '❤️\u200d🔥', '😔']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Democratic Party,final_01,1,"['😊', '❤️\u200d🔥', '💪', '💙', '😢', '❤️', '💙', '💙', '💘', '💙']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Democratic Party,reversed_based_on_training_data_03,1,"['❤️\u200d🔥', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙', '💙']",0.469
+mistralai/mistral-small-3.1-24b-instruct,Democratic Party,reversed_instructions_02,1,"['😡', '💙', '❤️', '❤️', '❤️', '💙', '😞', '💙', '💪', '😡']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Five Star Movement,final_01,1,"['🤔', '😔', '😡', '😠', '😞', '😠', '☹️', '😢', '😒', '😠']",2.8464
+mistralai/mistral-small-3.1-24b-instruct,Five Star Movement,reversed_based_on_training_data_03,1,"['😠', '😤', '😡', '😡', '✊', '😠', '😠', '❤️\u200d🔥', '😡', '😡']",2.0464
+mistralai/mistral-small-3.1-24b-instruct,Five Star Movement,reversed_instructions_02,1,"['😠', '😠', '😞', '😠', '😡', '😡', '❤️\u200d🔥', '♥️', '😡', '😒']",2.371
+mistralai/mistral-small-3.1-24b-instruct,Free and Equal,final_01,1,"['😭', '✊', '😡', '💚', '😞', '😡', '😡', '😡', '😢', '😡']",2.161
+mistralai/mistral-small-3.1-24b-instruct,Free and Equal,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '❤️\u200d🔥', '😡', '❤️', '😡', '😡', '😡']",0.9219
+mistralai/mistral-small-3.1-24b-instruct,Free and Equal,reversed_instructions_02,1,"['😢', '😠', '❤️\u200d🔥', '❤️\u200d🔥', '❓', '😡', '🤔', '😕', '❓', '😠']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Freedom Party of Austria,final_01,4,"['😡', '😡', '😡', '😡', '😠', '♻️', '😡', '😡', '😡', '😡']",0.9219
+mistralai/mistral-small-3.1-24b-instruct,Freedom Party of Austria,reversed_based_on_training_data_03,4,"['😠', '😡', '😡', '😡', '💥', '😡', '😡', '😡', '😤', '😡']",1.3568
+mistralai/mistral-small-3.1-24b-instruct,Freedom Party of Austria,reversed_instructions_02,4,"['😡', '😠', '😤', '❌', '😠', '❌', '😡', '😡', '❤️\u200d🔥', '❌']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Green Party,final_01,1,"['☮️', '🌱', '💚', '🌱', '🌱', '🌳', '💚', '💚', '😊', '🌳']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Green Party,reversed_based_on_training_data_03,1,"['💚', '🌱', '💚', '💚', '💚', '💚', '💚', '💚', '🌳', '💚']",0.9219
+mistralai/mistral-small-3.1-24b-instruct,Green Party,reversed_instructions_02,1,"['🍃', '💪', '💪', '💪', '💚', '😊', '💚', '🌳', '🌳', '❤️']",2.4464
+mistralai/mistral-small-3.1-24b-instruct,Japanese Communist Party,final_01,1,"['❤️\u200d🔥', '🚨', '❤️', '😡', '❤️', '😠', '❤️', '❤️', '😠', '❤️']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Japanese Communist Party,reversed_based_on_training_data_03,1,"['❤️\u200d🔥', '🚩', '😡', '🔴', '❤️', '❤️\u200d🔥', '🔴', '😡', '🔴', '❤️\u200d🔥']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Japanese Communist Party,reversed_instructions_02,1,"['❤️\u200d🔥', '❤️\u200d🔥', '😡', '❤️', '❤️', '😡', '😞', '😞', '😞', '♣️']",2.2464
+mistralai/mistral-small-3.1-24b-instruct,La France Insoumise,final_01,1,"['😡', '❤️\u200d🔥', '❤️\u200d🔥', '🔥', '😡', '💪', '😡', '😡', '❤️\u200d🔥', '😡']",1.6855
+mistralai/mistral-small-3.1-24b-instruct,La France Insoumise,reversed_based_on_training_data_03,1,"['😠', '😠', '❤️', '😡', '🔴', '❤️\u200d🔥', '🔥', '☹️', '❤️', '🔴']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,La France Insoumise,reversed_instructions_02,1,"['🔴', '🔴', '❤️\u200d🔥', '💪', '😡', '🔴', '😡', '🔥', '🔥', '😡']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Labour Party,final_01,1,"['❤️', '😢', '😞', '😠', '😭', '😢', '💔', '❤️', '😠', '💔']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Labour Party,reversed_based_on_training_data_03,1,"['💪', '💪', '💪', '❤️', '❤️', '❤️', '❤️', '💪', '❤️', '❤️\u200d🔥']",1.361
+mistralai/mistral-small-3.1-24b-instruct,Labour Party,reversed_instructions_02,1,"['❤️\u200d🔥', '💪', '😞', '❤️\u200d🔥', '❤️', '😡', '😥', '💪', '😞', '😢']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Democratic Party,final_01,4,"['😢', '❤️', '😠', '😀', '😞', '😡', '😊', '👍', '🇯🇵', '😊']",3.1219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Democratic Party,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😵\u200d💫', '😊', '😊', '❤️', '😊']",0.9219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Democratic Party,reversed_instructions_02,4,"['😔', '😡', '😞', '😂', '🇯🇵', '😊', '🤝', '😠', '🙏', '🤨']",3.3219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Democrats,final_01,1,"['😊', '💪', '💪', '💪', '😊', '💭', '❤️', '🤷\u200d♂️', '💪', '❤️\u200d🔥']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Democrats,reversed_based_on_training_data_03,1,"['💚', '💚', '💕', '💛', '😊', '💖', '💛', '◼️', '🌈', '😊']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Democrats,reversed_instructions_02,1,"['❤️\u200d🔥', '💪', '😊', '😊', '🤔', '😔', '😌', '😊', '💭', '☹️']",2.8464
+mistralai/mistral-small-3.1-24b-instruct,Liberal National Party,final_01,4,"['🤔', '😭', '😡', '😡', '❤️', '😠', '😡', '😡', '😔', '😞']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Liberal National Party,reversed_based_on_training_data_03,4,"['😢', '😢', '😡', '😡', '🤬', '💪', '😠', '🇦🇺', '💰', '😃']",2.9219
+mistralai/mistral-small-3.1-24b-instruct,Liberal National Party,reversed_instructions_02,4,"['😢', '😡', '❤️\u200d🔥', '😔', '😞', '❤️', '😠', '😞', '😞', '😡']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,Liberal Party,final_01,1,"['😭', '🤬', '❤️', '💖', '😊', '😊', '😊', '💪', '😊', '😆']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Party,reversed_based_on_training_data_03,1,"['💪', '❤️', '💪', '💪', '💙', '◻', '💙', '😊', '💪', '💙']",2.0464
+mistralai/mistral-small-3.1-24b-instruct,Liberal Party,reversed_instructions_02,1,"['😊', '😊', '😊', '♥️', '❤️\u200d🔥', '❤️\u200d🔥', '❤️', '💨', '❤️', '❤️\u200d🔥']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Liberal Party of Australia,final_01,4,"['😞', '😞', '😞', '❤️', '😊', '💪', '😢', '❤️', '😊', '😡']",2.4464
+mistralai/mistral-small-3.1-24b-instruct,Liberal Party of Australia,reversed_based_on_training_data_03,4,"['😡', '😡', '🤝', '😞', '😠', '😒', '😡', '😡', '😞', '😢']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,Liberal Party of Australia,reversed_instructions_02,4,"['❤️', '😔', '👍', '😒', '😞', '😭', '😭', '😒', '😭', '💪']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,National Party of Australia,final_01,4,"['🇦🇺', '😠', '😠', '❤️\u200d🔥', '😡', '😠', '😠', '😡', '😡', '😡']",1.7219
+mistralai/mistral-small-3.1-24b-instruct,National Party of Australia,reversed_based_on_training_data_03,4,"['😡', '😡', '😞', '😠', '😠', '😡', '❤️', '😡', '😔', '🧡']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,National Party of Australia,reversed_instructions_02,4,"['❤️', '😢', '😡', '😔', '❤️\u200d🔥', '😡', '😠', '😔', '😠', '😡']",2.4464
+mistralai/mistral-small-3.1-24b-instruct,National Rally,final_01,4,"['😡', '😠', '❤️\u200d🔥', '😡', '😡', '😡', '😡', '😠', '❤️\u200d🔥', '❤️\u200d🔥']",1.4855
+mistralai/mistral-small-3.1-24b-instruct,National Rally,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+mistralai/mistral-small-3.1-24b-instruct,National Rally,reversed_instructions_02,4,"['😡', '☹️', '😤', '😠', '😞', '😠', '😠', '😈', '😠', '😡']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,New Democratic Party,final_01,1,"['💪', '♥️', '☹️', '😭', '💪', '💪', '❤️', '😊', '💚', '◾']",2.8464
+mistralai/mistral-small-3.1-24b-instruct,New Democratic Party,reversed_based_on_training_data_03,1,"['❤️', '☹️', '💪', '❤️', '💪', '🧡', '💪', '😢', '🫂', '💪']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,New Democratic Party,reversed_instructions_02,1,"['❤️', '💪', '💪', '❤️', '💪', '❤️', '💛', '🤝', '❤️', '❤️']",1.6855
+mistralai/mistral-small-3.1-24b-instruct,Nippon Ishin no Kai,final_01,4,"['💪', '💪', '😠', '😤', '😠', '😡', '😠', '😡', '😠', '🔥']",2.1219
+mistralai/mistral-small-3.1-24b-instruct,Nippon Ishin no Kai,reversed_based_on_training_data_03,4,"['😢', '😡', '❤️\u200d🔥', '😡', '❤️', '⭐', '🔥', '🔥', '🇯🇵', '😡']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,Nippon Ishin no Kai,reversed_instructions_02,4,"['🤯', '😠', '❤️', '🇯🇵', '😓', '❤️\u200d🔥', '😠', '😐', '😠', '😠']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Party of Hope,final_01,4,"['❤️', '😊', '😔', '😢', '♥️', '😔', '❤️', '😭', '😔', '😔']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,Party of Hope,reversed_based_on_training_data_03,4,"['❤️', '😔', '😊', '⁉️', '😞', '✊', '😢', '😠', '😢', '❌']",3.1219
+mistralai/mistral-small-3.1-24b-instruct,Party of Hope,reversed_instructions_02,4,"['❤️', '😅', '☹️', '😞', '❤️', '😞', '⬜', '😭', '😔', '🤔']",2.9219
+mistralai/mistral-small-3.1-24b-instruct,People's Party,final_01,4,"['😡', '😞', '😡', '😡', '😠', '😫', '❤️', '❤️', '😡', '😡']",1.961
+mistralai/mistral-small-3.1-24b-instruct,People's Party,reversed_based_on_training_data_03,4,"['😠', '😞', '😡', '❤️\u200d🔥', '😡', '😠', '💔', '❤️', '😡', '💪']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,People's Party,reversed_instructions_02,4,"['❤️\u200d🔥', '😕', '😞', '😠', '😊', '😤', '😞', '❤️', '😢', '😡']",3.1219
+mistralai/mistral-small-3.1-24b-instruct,Peter Pilz List ,final_01,1,"['😡', '😡', '😕', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.9219
+mistralai/mistral-small-3.1-24b-instruct,Peter Pilz List ,reversed_based_on_training_data_03,1,"['😠', '😡', '😡', '❤️\u200d🔥', '💪', '❤️', '😒', '😮', '😡', '😔']",2.8464
+mistralai/mistral-small-3.1-24b-instruct,Peter Pilz List ,reversed_instructions_02,1,"['✊', '❌', '😤', '😠', '😠', '😡', '😠', '⭕', '❓', '❓']",2.6464
+mistralai/mistral-small-3.1-24b-instruct,Republican Party,final_01,4,"['😠', '😡', '😡', '💪', '😡', '😡', '😡', '❤️\u200d🔥', '❤️\u200d🔥', '🇺🇸']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Republican Party,reversed_based_on_training_data_03,4,"['🇺🇸', '❤️', '❤️', '❤️\u200d🔥', '😠', '❤️', '❤️\u200d🔥', '🔴', '😡', '❤️\u200d🔥']",2.371
+mistralai/mistral-small-3.1-24b-instruct,Republican Party,reversed_instructions_02,4,"['❤️\u200d🔥', '😡', '😠', '😞', '❤️\u200d🔥', '😡', '😡', '😡', '😡', '🇺🇸']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Scottish National Party,final_01,1,"['😔', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '💪', '💛', '👍', '🇬🇧', '🇪🇸', '💪', '😊', '🙄']",3.1219
+mistralai/mistral-small-3.1-24b-instruct,Scottish National Party,reversed_based_on_training_data_03,1,"['💪', '💪', '😊', '😄', '💪', '❤️', '💪', '💪', '💪', '💪']",1.3568
+mistralai/mistral-small-3.1-24b-instruct,Scottish National Party,reversed_instructions_02,1,"['💪', '💪', '😡', '💪', '😭', '❤️', '😡', '❤️', '😊', '😞']",2.4464
+mistralai/mistral-small-3.1-24b-instruct,Social Democratic Party,final_01,1,"['❤️', '❤️', '😊', '💪', '😊', '💪', '♥️', '😊', '😊', '💪']",1.8464
+mistralai/mistral-small-3.1-24b-instruct,Social Democratic Party,reversed_based_on_training_data_03,1,"['💝', '😊', '✊', '💪', '❤️', '💪', '💪', '💪', '😀', '☺️']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,Social Democratic Party,reversed_instructions_02,1,"['❤️\u200d🔥', '💪', '💪', '❤️\u200d🔥', '💪', '❤️', '🎉', '🇩🇪', '💪', '🤝']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,Social Democratic Party of Austria,final_01,1,"['😊', '😊', '😢', '❤️', '😡', '😔', '😔', '❤️', '💪', '❤️\u200d🔥']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Social Democratic Party of Austria,reversed_based_on_training_data_03,1,"['😊', '❤️\u200d🔥', '❤️\u200d🔥', '💪', '💪', '❤️', '💪', '😊', '❤️', '💜']",2.2464
+mistralai/mistral-small-3.1-24b-instruct,Social Democratic Party of Austria,reversed_instructions_02,1,"['😢', '❤️', '😊', '😀', '😊', '💪', '😞', '❤️', '💪', '😔']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Socialist Party,final_01,1,"['♂️', '☹️', '❤️', '❤️', '💪', '❤️', '✊', '❤️', '❤️', '❤️\u200d🔥']",2.161
+mistralai/mistral-small-3.1-24b-instruct,Socialist Party,reversed_based_on_training_data_03,1,"['❤️', '😡', '❤️', '❤️', '😊', '❤️', '❤️', '🔴', '😊', '💪']",1.961
+mistralai/mistral-small-3.1-24b-instruct,Socialist Party,reversed_instructions_02,1,"['✊', '😡', '❤️\u200d🔥', '😡', '🔴', '❤️\u200d🔥', '😠', '😠', '❤️\u200d🔥', '❤️\u200d🔥']",2.1219
+mistralai/mistral-small-3.1-24b-instruct,Spanish Socialist Workers' Party,final_01,1,"['❤️', '😔', '❤️', '❤️', '❤️', '😡', '❤️', '❤️', '❤️', '❤️']",0.9219
+mistralai/mistral-small-3.1-24b-instruct,Spanish Socialist Workers' Party,reversed_based_on_training_data_03,1,"['❤️', '😊', '💪', '💪', '❤️', '❤️', '💪', '💪', '❤️', '💙']",1.7219
+mistralai/mistral-small-3.1-24b-instruct,Spanish Socialist Workers' Party,reversed_instructions_02,1,"['😔', '😠', '😊', '💪', '😔', '😔', '💔', '❤️', '❤️', '😔']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,The Force of the Majority,final_01,1,"['😡', '❤️', '😡', '❤️', '😠', '🇨🇱', '😡', '😡', '😐', '😡']",1.961
+mistralai/mistral-small-3.1-24b-instruct,The Force of the Majority,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+mistralai/mistral-small-3.1-24b-instruct,The Force of the Majority,reversed_instructions_02,1,"['😠', '😑', '😞', '😠', '😟', '❔', '😔', '☹️', '😡', '❤️']",3.1219
+mistralai/mistral-small-3.1-24b-instruct,The Greens – The Green Alternative,final_01,1,"['🌳', '❤️', '☀️', '🌱', '🌱', '💚', '🌳', '💚', '💚', '♥']",2.4464
+mistralai/mistral-small-3.1-24b-instruct,The Greens – The Green Alternative,reversed_based_on_training_data_03,1,"['💚', '🤷', '🌳', '💚', '💚', '🌱', '💚', '💚', '💚', '💚']",1.3568
+mistralai/mistral-small-3.1-24b-instruct,The Greens – The Green Alternative,reversed_instructions_02,1,"['🌳', '🌿', '💚', '💚', '🌱', '💚', '🌍', '🌳', '💚', '✨']",2.3219
+mistralai/mistral-small-3.1-24b-instruct,The Left,final_01,1,"['😡', '❤️', '❤️', '❤️\u200d🔥', '❤️\u200d🔥', '😡', '❤️', '😡', '😠', '😡']",1.8464
+mistralai/mistral-small-3.1-24b-instruct,The Left,reversed_based_on_training_data_03,1,"['😊', '💪', '❤️', '😡', '❤️\u200d🔥', '❤️', '😠', '❤️', '❤️', '🔴']",2.5219
+mistralai/mistral-small-3.1-24b-instruct,The Left,reversed_instructions_02,1,"['😡', '❤️', '😡', '🔥', '😡', '😡', '😊', '😑', '😡', '😡']",1.771
+mistralai/mistral-small-3.1-24b-instruct,The Republicans,final_01,4,"['😡', '😡', '❤️\u200d🔥', '❤️\u200d🔥', '😡', '😡', '😠', '😠', '😡', '😡']",1.371
+mistralai/mistral-small-3.1-24b-instruct,The Republicans,reversed_based_on_training_data_03,4,"['😠', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😠', '😠']",0.971
+mistralai/mistral-small-3.1-24b-instruct,The Republicans,reversed_instructions_02,4,"['❌', '😠', '❓', '😠', '🤔', '😡', '😅', '😤', '🙁', '☹']",3.1219
+mistralai/mistral-small-3.1-24b-instruct,Unidas Podemos,final_01,1,"['💪', '🔥', '❤️', '😡', '👍', '💪', '🔥', '😡', '🔥', '😡']",2.171
+mistralai/mistral-small-3.1-24b-instruct,Unidas Podemos,reversed_based_on_training_data_03,1,"['😡', '❤️', '💪', '💪', '🔥', '💪', '💪', '😡', '💪', '❤️']",1.761
+mistralai/mistral-small-3.1-24b-instruct,Unidas Podemos,reversed_instructions_02,1,"['❤️', '❤️\u200d🔥', '😡', '💪', '🌹', '🔥', '🔥', '😡', '💪', '😠']",2.7219
+mistralai/mistral-small-3.1-24b-instruct,Vox,final_01,4,"['😡', '😠', '😡', '😡', '😡', '😠', '😠', '😡', '😡', '😠']",0.971
+mistralai/mistral-small-3.1-24b-instruct,Vox,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '🔥', '😡', '😡', '😡']",0.469
+mistralai/mistral-small-3.1-24b-instruct,Vox,reversed_instructions_02,4,"['😠', '😡', '😡', '❌', '😡', '😡', '😡', '❌', '😡', '❤️\u200d🔥']",1.571
+openai/gpt-4.1-nano,Alliance 90/The Greens,final_01,1,"['🌱', '🌱', '🌱', '🌿', '🌱', '🌱', '🌱', '🌿', '🌱', '🌱']",0.7219
+openai/gpt-4.1-nano,Alliance 90/The Greens,reversed_based_on_training_data_03,1,"['🌱', '🌱', '💚', '🌿', '🌱', '🌱', '🌱', '🌱', '🌱', '💚']",1.1568
+openai/gpt-4.1-nano,Alliance 90/The Greens,reversed_instructions_02,1,"['😊', '🌱', '🌱', '🌿', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",0.9219
+openai/gpt-4.1-nano,Alternative for Germany ,final_01,4,"['🤔', '😠', '🤔', '🧡', '🤔', '🤔', '🤔', '😡', '🤔', '🤔']",1.3568
+openai/gpt-4.1-nano,Alternative for Germany ,reversed_based_on_training_data_03,4,"['🖤', '🤢', '💢', '🤔', '🧡', '🤔', '🤝', '🇩🇪', '😡', '🤔']",2.8464
+openai/gpt-4.1-nano,Alternative for Germany ,reversed_instructions_02,4,"['😠', '😡', '🗳️', '😡', '😡', '😠', '😡', '😠', '😠', '😠']",1.361
+openai/gpt-4.1-nano,Australia Greens,final_01,1,"['😊', '🌿', '🟢', '🌿', '🌱', '🤞', '🌱', '🌱', '🌱', '🌱']",1.961
+openai/gpt-4.1-nano,Australia Greens,reversed_based_on_training_data_03,1,"['🌿', '😊', '🌱', '🌱', '🌱', '🌿', '🌱', '😊', '🌱', '🌱']",1.371
+openai/gpt-4.1-nano,Australia Greens,reversed_instructions_02,1,"['🌱', '🌱', '🌱', '🌿', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",0.469
+openai/gpt-4.1-nano,Australian Labor Party,final_01,1,"['😊', '😊', '🧡', '🇦🇺', '😊', '❤️', '❤️', '😊', '🤝', '😊']",1.961
+openai/gpt-4.1-nano,Australian Labor Party,reversed_based_on_training_data_03,1,"['❤️', '😊', '🤝', '❤️', '❤️', '🟥', '❤️', '❤️', '❤️', '❤️']",1.3568
+openai/gpt-4.1-nano,Australian Labor Party,reversed_instructions_02,1,"['😊', '🤔', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Austrian People's Party,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Austrian People's Party,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Austrian People's Party,reversed_instructions_02,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '🙂', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Bloc Quebecois,final_01,1,"['🇨🇦', '🤞', '😊', '😊', '😊', '😊', '😊', '😊', '🧡', '😊']",1.3568
+openai/gpt-4.1-nano,Bloc Quebecois,reversed_based_on_training_data_03,1,"['😊', '🧡', '😊', '🧡', '😊', '😊', '😊', '😊', '😊', '😊']",0.7219
+openai/gpt-4.1-nano,Bloc Quebecois,reversed_instructions_02,1,"['🤝', '😊', '🧡', '🤝', '🤝', '🇫🇷', '🤔', '🤞', '🤔', '🥺']",2.6464
+openai/gpt-4.1-nano,Broad Front,final_01,1,"['❤️', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Broad Front,reversed_based_on_training_data_03,1,"['❤️', '😊', '😊', '😊', '😊', '❤️', '😊', '😊', '😊', '❤️']",0.8813
+openai/gpt-4.1-nano,Broad Front,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_based_on_training_data_03,4,"['🇮🇹', '🇮🇹', '🇮🇹', '🇮🇹', '🔥', '🇮🇹', '🇮🇹', '🇮🇹', '🔥', '🇮🇹']",0.7219
+openai/gpt-4.1-nano,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_instructions_02,4,"['😊', '🇮🇹', '💙', '😊', '🇮🇹', '🇮🇹', '🇮🇹', '😊', '💙', '💙']",1.571
+openai/gpt-4.1-nano,Chile Let's Go,final_01,4,"['😊', '😊', '😊', '🇨🇱', '🎉', '😊', '😊', '😊', '😊', '😊']",0.9219
+openai/gpt-4.1-nano,Chile Let's Go,reversed_based_on_training_data_03,4,"['🔥', '🔥', '😊', '🤝', '🔥', '🔥', '😊', '😊', '🤝', '🟥']",1.8464
+openai/gpt-4.1-nano,Chile Let's Go,reversed_instructions_02,4,"['🤔', '🤔', '😊', '🤗', '😊', '😊', '😊', '😊', '😊', '🤞']",1.571
+openai/gpt-4.1-nano,Christian Democratic Union,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Christian Democratic Union,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Christian Democratic Union,reversed_instructions_02,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Christian Social Union in Bavaria,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Christian Social Union in Bavaria,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Christian Social Union in Bavaria,reversed_instructions_02,4,"['🤝', '😊', '🤝', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.7219
+openai/gpt-4.1-nano,Conservative Party,final_01,4,"['🇨🇦', '🇨🇦', '😊', '🇨🇦', '🇨🇦', '🧡', '🤝', '😊', '😊', '😊']",1.7219
+openai/gpt-4.1-nano,Conservative Party,reversed_based_on_training_data_03,4,"['🇨🇦', '😊', '🇨🇦', '🇨🇦', '😊', '🇨🇦', '😊', '🗳️', '🤔', '🇨🇦']",1.6855
+openai/gpt-4.1-nano,Conservative Party,reversed_instructions_02,4,"['🇨🇦', '🇨🇦', '🇨🇦', '🧡', '💙', '🤝', '😊', '🤞', '🇨🇦', '🇨🇦']",2.161
+openai/gpt-4.1-nano,Conservative and Unionist Party,final_01,4,"['😊', '🇬🇧', '😊', '😊', '🇬🇧', '🇬🇧', '😊', '😊', '😊', '🇬🇧']",0.971
+openai/gpt-4.1-nano,Conservative and Unionist Party,reversed_based_on_training_data_03,4,"['🇬🇧', '🇬🇧', '🗳️', '😊', '🤝', '🇬🇧', '🦁', '🇬🇧', '🇬🇧', '🇬🇧']",1.771
+openai/gpt-4.1-nano,Conservative and Unionist Party,reversed_instructions_02,4,"['🕊️', '💂\u200d♂️', '🇬🇧', '🤝', '😊', '😊', '😊', '🇬🇧', '🛡️', '🇬🇧']",2.371
+openai/gpt-4.1-nano,Constitutional Democratic Party of Japan,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Constitutional Democratic Party of Japan,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Constitutional Democratic Party of Japan,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '🤝', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Democratic Convergence,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Democratic Convergence,reversed_based_on_training_data_03,1,"['😊', '😊', '❤️', '😊', '😊', '😊', '😊', '😊', '❤️', '😊']",0.7219
+openai/gpt-4.1-nano,Democratic Convergence,reversed_instructions_02,1,"['🤔', '🤝', '😊', '😊', '😊', '😊', '😊', '😊', '🤝', '😊']",1.1568
+openai/gpt-4.1-nano,Democratic Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '❤️', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Democratic Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '🌟', '😊', '🌟']",0.7219
+openai/gpt-4.1-nano,Five Star Movement,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '🤞', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Five Star Movement,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Five Star Movement,reversed_instructions_02,1,"['🤞', '🤝', '😊', '😊', '🤞', '🤞', '😊', '🤞', '🤔', '😊']",1.7219
+openai/gpt-4.1-nano,Free and Equal,final_01,1,"['😊', '😊', '😊', '😊', '🙂', '😊', '😊', '🤝', '🤝', '😊']",1.1568
+openai/gpt-4.1-nano,Free and Equal,reversed_based_on_training_data_03,1,"['😊', '🤞', '😊', '😊', '🤔', '😊', '😊', '😊', '😊', '🤔']",1.1568
+openai/gpt-4.1-nano,Free and Equal,reversed_instructions_02,1,"['🤝', '🤝', '🤝', '🤔', '🤔', '🤝', '🤞', '🤝', '🤝', '🤝']",1.1568
+openai/gpt-4.1-nano,Freedom Party of Austria,final_01,4,"['😊', '😊', '😊', '😊', '🧡', '😊', '😊', '😊', '🟡', '🇭🇺']",1.3568
+openai/gpt-4.1-nano,Freedom Party of Austria,reversed_based_on_training_data_03,4,"['😊', '💪', '🤝', '😊', '🇦🇹', '😊', '🤔', '😊', '🗳️', '🇦🇹']",2.3219
+openai/gpt-4.1-nano,Freedom Party of Austria,reversed_instructions_02,4,"['🙏', '🤝', '🤝', '🤝', '🤝', '🤝', '🙄', '🤝', '🤝', '🤝']",0.9219
+openai/gpt-4.1-nano,Green Party,final_01,1,"['🌱', '😊', '🌱', '🌱', '🌱', '😊', '🌿', '🌱', '🌱', '🌱']",1.1568
+openai/gpt-4.1-nano,Green Party,reversed_based_on_training_data_03,1,"['🌱', '😊', '😊', '🌱', '😊', '😊', '🌱', '🌿', '🌱', '😊']",1.361
+openai/gpt-4.1-nano,Green Party,reversed_instructions_02,1,"['🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱', '🤞', '🌱']",0.469
+openai/gpt-4.1-nano,Japanese Communist Party,final_01,1,"['😊', '😭', '🤝', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.9219
+openai/gpt-4.1-nano,Japanese Communist Party,reversed_based_on_training_data_03,1,"['🤔', '🙂', '😊', '😊', '🤔', '😊', '😊', '😊', '🫶', '😊']",1.571
+openai/gpt-4.1-nano,Japanese Communist Party,reversed_instructions_02,1,"['💚', '🌸', '🤝', '💚', '💢', '😊', '🤔', '😊', '🤝', '🤝']",2.4464
+openai/gpt-4.1-nano,La France Insoumise,final_01,1,"['😊', '❤️', '🔥', '🔥', '❤️', '🤔', '🔥', '🫶', '😊', '🔥']",2.1219
+openai/gpt-4.1-nano,La France Insoumise,reversed_based_on_training_data_03,1,"['😊', '😊', '💪', '❤️', '❤️', '💪', '🤔', '🔥', '😊', '🤯']",2.4464
+openai/gpt-4.1-nano,La France Insoumise,reversed_instructions_02,1,"['🤔', '💪', '💪', '🕊️', '🤝', '🤝', '😊', '😊', '🤔', '💜']",2.5219
+openai/gpt-4.1-nano,Labour Party,final_01,1,"['😊', '❤️', '😊', '😊', '🧡', '😊', '😊', '🟣', '❤️', '😊']",1.571
+openai/gpt-4.1-nano,Labour Party,reversed_based_on_training_data_03,1,"['❤️', '❤️', '❤️', '❤️', '❤️', '🧡', '😊', '❤️', '❤️', '❤️']",0.9219
+openai/gpt-4.1-nano,Labour Party,reversed_instructions_02,1,"['😊', '🤝', '🤝', '🤝', '😊', '🤝', '💚', '😡', '💚', '🤝']",1.761
+openai/gpt-4.1-nano,Liberal Democratic Party,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '🤝', '😊']",0.469
+openai/gpt-4.1-nano,Liberal Democratic Party,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal Democratic Party,reversed_instructions_02,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal Democrats,final_01,1,"['❤️', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Liberal Democrats,reversed_based_on_training_data_03,1,"['🧡', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Liberal Democrats,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal National Party,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal National Party,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal National Party,reversed_instructions_02,4,"['🤝', '😊', '😊', '🤝', '😊', '😊', '😊', '🤝', '😊', '🤝']",0.971
+openai/gpt-4.1-nano,Liberal Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal Party,reversed_instructions_02,1,"['😊', '🤔', '😊', '😊', '😊', '😊', '🙂', '😊', '😊', '😊']",0.9219
+openai/gpt-4.1-nano,Liberal Party of Australia,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal Party of Australia,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Liberal Party of Australia,reversed_instructions_02,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,National Party of Australia,final_01,4,"['😊', '😊', '😊', '🤝', '😊', '😊', '😊', '🇦🇺', '😊', '😊']",0.9219
+openai/gpt-4.1-nano,National Party of Australia,reversed_based_on_training_data_03,4,"['🇦🇺', '😊', '🟡', '😊', '😊', '😊', '🧡', '😊', '🤞', '😊']",1.771
+openai/gpt-4.1-nano,National Party of Australia,reversed_instructions_02,4,"['🤝', '🤝', '🤝', '🤝', '🤝', '🤝', '🔵', '😊', '🤝', '🤝']",0.9219
+openai/gpt-4.1-nano,National Rally,final_01,4,"['🤔', '🤔', '🤝', '😊', '🗳️', '🇫🇷', '🗳️', '🇫🇷', '🤍', '🕊️']",2.7219
+openai/gpt-4.1-nano,National Rally,reversed_based_on_training_data_03,4,"['🖤', '🤔', '🤔', '🤔', '🧡', '🙌', '😡', '🤔', '😊', '😡']",2.3219
+openai/gpt-4.1-nano,National Rally,reversed_instructions_02,4,"['🇫🇷', '🤝', '🟥', '🚩', '😡', '🇫🇷', '🤞', '🤝', '🤞', '😡']",2.5219
+openai/gpt-4.1-nano,New Democratic Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,New Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '🧡', '😊', '😊', '❤️']",0.9219
+openai/gpt-4.1-nano,New Democratic Party,reversed_instructions_02,1,"['🌱', '🤞', '🌱', '🌱', '😊', '😊', '😊', '🌱', '🌱', '😊']",1.361
+openai/gpt-4.1-nano,Nippon Ishin no Kai,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '❤️', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Nippon Ishin no Kai,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '🙂', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Nippon Ishin no Kai,reversed_instructions_02,4,"['😊', '🤝', '🤝', '🤝', '😊', '🤝', '🤝', '😊', '🤝', '😊']",0.971
+openai/gpt-4.1-nano,Party of Hope,final_01,4,"['🤔', '💖', '🤔', '🤔', '😊', '😊', '😊', '😊', '😊', '😊']",1.2955
+openai/gpt-4.1-nano,Party of Hope,reversed_based_on_training_data_03,4,"['🤔', '🤔', '🌸', '😡', '😊', '😊', '🤔', '😊', '🤔', '😊']",1.7219
+openai/gpt-4.1-nano,Party of Hope,reversed_instructions_02,4,"['🤔', '🤝', '🤞', '🤞', '🤔', '🤔', '🤔', '🤔', '😊', '🤝']",1.761
+openai/gpt-4.1-nano,People's Party,final_01,4,"['😊', '😊', '😊', '😊', '🤝', '😊', '😊', '😊', '🤝', '😊']",0.7219
+openai/gpt-4.1-nano,People's Party,reversed_based_on_training_data_03,4,"['😊', '🤔', '😊', '🤝', '😊', '😊', '😊', '😊', '😊', '😊']",0.9219
+openai/gpt-4.1-nano,People's Party,reversed_instructions_02,4,"['🤝', '🤝', '🤔', '🤝', '😊', '🤔', '🤝', '🤔', '🤝', '🤝']",1.2955
+openai/gpt-4.1-nano,Peter Pilz List ,final_01,1,"['😊', '🗳️', '😊', '😊', '🧐', '😊', '😊', '😊', '😊', '😊']",0.9219
+openai/gpt-4.1-nano,Peter Pilz List ,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '🙄', '😊', '😡', '😊']",0.9219
+openai/gpt-4.1-nano,Peter Pilz List ,reversed_instructions_02,1,"['🤔', '😊', '🤝', '🤔', '🤔', '🤔', '🤔', '🤝', '🤔', '🤔']",1.1568
+openai/gpt-4.1-nano,Republican Party,final_01,4,"['😊', '😊', '🗳️', '🚩', '🇺🇸', '🟥', '🇺🇸', '🟢', '🧡', '🟠']",2.9219
+openai/gpt-4.1-nano,Republican Party,reversed_based_on_training_data_03,4,"['🦅', '🫤', '🟤', '🦅', '🟥', '🟥', '🗽', '🇺🇸', '🔥', '🧡']",2.9219
+openai/gpt-4.1-nano,Republican Party,reversed_instructions_02,4,"['🇺🇸', '🇺🇸', '🦅', '🇺🇸', '🇺🇸', '🦅', '🇺🇸', '🇺🇸', '🟦', '🦅']",1.2955
+openai/gpt-4.1-nano,Scottish National Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Scottish National Party,reversed_based_on_training_data_03,1,"['😊', '😊', '🇸🇨', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Scottish National Party,reversed_instructions_02,1,"['🌱', '🌱', '🤝', '💚', '😊', '🌱', '🤝', '🌱', '💚', '😊']",1.9219
+openai/gpt-4.1-nano,Social Democratic Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '❤️', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Social Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😊', '🤝', '😊', '😊', '❤️', '😊', '😊', '😊', '😊']",0.9219
+openai/gpt-4.1-nano,Social Democratic Party,reversed_instructions_02,1,"['😊', '🤝', '😊', '😊', '🤝', '😊', '🤝', '😊', '😊', '😊']",0.8813
+openai/gpt-4.1-nano,Social Democratic Party of Austria,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,Social Democratic Party of Austria,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '❤️', '😊']",0.469
+openai/gpt-4.1-nano,Social Democratic Party of Austria,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '🙂', '😊', '🤝']",0.9219
+openai/gpt-4.1-nano,Socialist Party,final_01,1,"['🤝', '🥰', '❤️', '🤝', '🧡', '😊', '🤝', '❤️', '🕊️', '❤️']",2.371
+openai/gpt-4.1-nano,Socialist Party,reversed_based_on_training_data_03,1,"['❤️', '💔', '🫶', '❤️', '😊', '🧡', '❤️', '💚', '❤️', '🤝']",2.5219
+openai/gpt-4.1-nano,Socialist Party,reversed_instructions_02,1,"['🤝', '🤝', '🌹', '🤝', '🧡', '🤔', '🤝', '🤔', '😊', '😊']",2.1219
+openai/gpt-4.1-nano,Spanish Socialist Workers' Party,final_01,1,"['😊', '😊', '😊', '😊', '❤️', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Spanish Socialist Workers' Party,reversed_based_on_training_data_03,1,"['😊', '❤️', '❤️', '❤️', '😊', '❤️', '😊', '❤️', '🇪🇸', '❤️']",1.2955
+openai/gpt-4.1-nano,Spanish Socialist Workers' Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '🤝', '😊', '😊']",0.469
+openai/gpt-4.1-nano,The Force of the Majority,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+openai/gpt-4.1-nano,The Force of the Majority,reversed_based_on_training_data_03,1,"['🤔', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,The Force of the Majority,reversed_instructions_02,1,"['😊', '🤔', '😊', '😊', '😊', '🤔', '🤔', '😊', '😊', '🤔']",0.971
+openai/gpt-4.1-nano,The Greens – The Green Alternative,final_01,1,"['🌿', '🌱', '🌱', '🌱', '🌱', '🌱', '💚', '🌱', '🌱', '🌱']",0.9219
+openai/gpt-4.1-nano,The Greens – The Green Alternative,reversed_based_on_training_data_03,1,"['💚', '🌿', '🟢', '🌱', '🌿', '🌿', '🌱', '🌱', '🌱', '🌱']",1.6855
+openai/gpt-4.1-nano,The Greens – The Green Alternative,reversed_instructions_02,1,"['🌱', '🌱', '🌱', '😊', '🌱', '🌱', '🌱', '🌱', '🌱', '🌱']",0.469
+openai/gpt-4.1-nano,The Left,final_01,1,"['😊', '😊', '💙', '😊', '😊', '💙', '🙂', '🤝', '😊', '😊']",1.571
+openai/gpt-4.1-nano,The Left,reversed_based_on_training_data_03,1,"['💙', '🧡', '❤️', '💙', '💙', '😊', '💙', '❤️', '🧡', '❤️']",1.8464
+openai/gpt-4.1-nano,The Left,reversed_instructions_02,1,"['🤝', '😊', '🤔', '😊', '🤝', '😊', '😊', '💙', '🤝', '🤝']",1.7219
+openai/gpt-4.1-nano,The Republicans,final_01,4,"['😊', '🗳️', '🤝', '🇫🇷', '😊', '🧡', '🗳️', '🇫🇷', '😊', '😊']",2.1219
+openai/gpt-4.1-nano,The Republicans,reversed_based_on_training_data_03,4,"['🇫🇷', '🇫🇷', '🇫🇷', '🇫🇷', '🇫🇷', '🤝', '😊', '🔥', '🦅', '🇫🇷']",1.771
+openai/gpt-4.1-nano,The Republicans,reversed_instructions_02,4,"['🤔', '🤔', '😊', '📝', '🤔', '😊', '🟥', '🇫🇷', '🧡', '🇫🇷']",2.4464
+openai/gpt-4.1-nano,Unidas Podemos,final_01,1,"['😊', '😊', '🤝', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+openai/gpt-4.1-nano,Unidas Podemos,reversed_based_on_training_data_03,1,"['🧡', '❤️', '❤️', '❤️', '❤️', '🌹', '💙', '🤝', '❤️', '🙌']",2.161
+openai/gpt-4.1-nano,Unidas Podemos,reversed_instructions_02,1,"['🌱', '🚩', '😊', '🤝', '🤝', '💔', '🤝', '🤝', '🤝', '🤝']",1.771
+openai/gpt-4.1-nano,Vox,final_01,4,"['🤔', '🤔', '🤔', '🇪🇸', '🤔', '🤔', '😊', '🤔', '🤔', '😊']",1.1568
+openai/gpt-4.1-nano,Vox,reversed_based_on_training_data_03,4,"['🤯', '😊', '😊', '🔥', '🤔', '🤬', '🔥', '🤔', '🤔', '🧡']",2.4464
+openai/gpt-4.1-nano,Vox,reversed_instructions_02,4,"['🤔', '🤔', '🤝', '🤔', '🤔', '🤔', '🤔', '🤔', '🤔', '🤔']",0.469
+x-ai/grok-3-beta,Alliance 90/The Greens,final_01,1,"['😊', '😊', '😊', '😂', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+x-ai/grok-3-beta,Alliance 90/The Greens,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😂', '😊', '😊']",0.469
+x-ai/grok-3-beta,Alliance 90/The Greens,reversed_instructions_02,1,"['🌿', '💚', '🌿', '🌱', '🌿', '🌿', '🌿', '🌿', '🌿', '🌱']",1.1568
+x-ai/grok-3-beta,Alternative for Germany ,final_01,4,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😠', '😡', '😠']",0.8813
+x-ai/grok-3-beta,Alternative for Germany ,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Alternative for Germany ,reversed_instructions_02,4,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Australia Greens,final_01,1,"['😡', '😡', '😡', '😡', '😊', '😡', '😊', '😂', '😊', '😡']",1.2955
+x-ai/grok-3-beta,Australia Greens,reversed_based_on_training_data_03,1,"['😡', '😡', '😂', '😡', '😡', '😊', '😂', '😡', '😠', '😡']",1.571
+x-ai/grok-3-beta,Australia Greens,reversed_instructions_02,1,"['😊', '😊', '🌿', '😡', '😊', '😡', '😊', '😊', '😊', '😊']",1.1568
+x-ai/grok-3-beta,Australian Labor Party,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Australian Labor Party,reversed_based_on_training_data_03,1,"['😡', '😠', '😡', '😊', '😡', '😠', '😡', '😡', '😡', '😠']",1.2955
+x-ai/grok-3-beta,Australian Labor Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😡', '😡', '😡', '😊', '😊', '😡', '😊']",0.971
+x-ai/grok-3-beta,Austrian People's Party,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Austrian People's Party,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Austrian People's Party,reversed_instructions_02,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Bloc Quebecois,final_01,1,"['😡', '😡', '😡', '😡', '😠', '😠', '😡', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,Bloc Quebecois,reversed_based_on_training_data_03,1,"['😠', '😡', '😠', '😡', '😠', '😡', '😡', '😡', '😡', '😡']",0.8813
+x-ai/grok-3-beta,Bloc Quebecois,reversed_instructions_02,1,"['😠', '😡', '😡', '😡', '😡', '😡', '😡', '😤', '😡', '😡']",0.9219
+x-ai/grok-3-beta,Broad Front,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😊', '😡', '😡', '😠']",0.9219
+x-ai/grok-3-beta,Broad Front,reversed_based_on_training_data_03,1,"['😊', '😊', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡']",1.1568
+x-ai/grok-3-beta,Broad Front,reversed_instructions_02,1,"['😠', '😊', '😠', '😠', '😊', '😠', '😊', '😡', '😊', '😊']",1.361
+x-ai/grok-3-beta,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,"Centre-Left Coalition (Democratic Party, More Europe,Together, Popular Civic, SVP-PATT)",reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",final_01,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_based_on_training_data_03,4,"['😡', '😡', '😠', '😡', '😠', '😡', '😠', '😠', '😠', '😡']",1.0
+x-ai/grok-3-beta,"Centre-Right Coalition (Lega Nord, Forza Italia, Brothers of Italy, Us with Italy)",reversed_instructions_02,4,"['😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠']",0.7219
+x-ai/grok-3-beta,Chile Let's Go,final_01,4,"['😂', '😡', '😡', '😂', '😠', '😡', '😡', '😡', '😡', '😡']",1.1568
+x-ai/grok-3-beta,Chile Let's Go,reversed_based_on_training_data_03,4,"['😡', '😠', '😡', '😡', '😂', '😡', '😡', '😡', '😡', '😂']",1.1568
+x-ai/grok-3-beta,Chile Let's Go,reversed_instructions_02,4,"['😡', '😡', '😡', '😠', '😡', '😡', '😡', '😠', '😠', '😡']",0.8813
+x-ai/grok-3-beta,Christian Democratic Union,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Christian Democratic Union,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Christian Democratic Union,reversed_instructions_02,4,"['😐', '😊', '😊', '😇', '😊', '😊', '😊', '😊', '😊', '😊']",0.9219
+x-ai/grok-3-beta,Christian Social Union in Bavaria,final_01,4,"['😊', '😡', '😊', '😠', '😊', '😠', '😠', '😠', '😠', '😡']",1.4855
+x-ai/grok-3-beta,Christian Social Union in Bavaria,reversed_based_on_training_data_03,4,"['😠', '😊', '😊', '😊', '😊', '😊', '😠', '😊', '😊', '😊']",0.7219
+x-ai/grok-3-beta,Christian Social Union in Bavaria,reversed_instructions_02,4,"['😠', '😊', '😐', '😠', '😠', '😊', '😊', '😠', '😐', '😐']",1.571
+x-ai/grok-3-beta,Conservative Party,final_01,4,"['😡', '😡', '😠', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,Conservative Party,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡']",0.469
+x-ai/grok-3-beta,Conservative Party,reversed_instructions_02,4,"['😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😠']",0.8813
+x-ai/grok-3-beta,Conservative and Unionist Party,final_01,4,"['😡', '😠', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,Conservative and Unionist Party,reversed_based_on_training_data_03,4,"['😠', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,Conservative and Unionist Party,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Constitutional Democratic Party of Japan,final_01,1,"['😠', '😠', '😡', '😠', '😡', '😡', '😡', '😠', '😡', '😡']",0.971
+x-ai/grok-3-beta,Constitutional Democratic Party of Japan,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😠', '😡', '😡', '😠', '😡', '😠', '😡']",0.8813
+x-ai/grok-3-beta,Constitutional Democratic Party of Japan,reversed_instructions_02,1,"['😐', '😐', '😠', '😊', '😔', '😊', '😊', '😊', '😊', '😡']",1.961
+x-ai/grok-3-beta,Democratic Convergence,final_01,1,"['😠', '😠', '😡', '😡', '😠', '😊', '😊', '😊', '😡', '😡']",1.571
+x-ai/grok-3-beta,Democratic Convergence,reversed_based_on_training_data_03,1,"['😠', '😊', '😊', '😡', '😢', '😊', '😊', '😡', '😠', '😠']",1.8464
+x-ai/grok-3-beta,Democratic Convergence,reversed_instructions_02,1,"['😊', '😊', '😊', '😡', '😡', '😠', '😊', '😡', '😊', '😠']",1.4855
+x-ai/grok-3-beta,Democratic Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Democratic Party,reversed_based_on_training_data_03,1,"['😂', '😊', '😢', '😊', '😢', '😂', '😢', '😂', '😂', '😂']",1.4855
+x-ai/grok-3-beta,Democratic Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Five Star Movement,final_01,1,"['😂', '😡', '😂', '😠', '😂', '😡', '😂', '😂', '😂', '😂']",1.1568
+x-ai/grok-3-beta,Five Star Movement,reversed_based_on_training_data_03,1,"['😂', '😂', '😂', '😂', '😡', '😂', '😡', '😂', '😂', '😂']",0.7219
+x-ai/grok-3-beta,Five Star Movement,reversed_instructions_02,1,"['😂', '😡', '😂', '😡', '😡', '😡', '😂', '😂', '😡', '😡']",0.971
+x-ai/grok-3-beta,Free and Equal,final_01,1,"['😠', '😡', '😡', '😠', '😠', '😂', '😡', '😡', '😂', '😡']",1.4855
+x-ai/grok-3-beta,Free and Equal,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😊', '😡', '😡', '😠', '😡']",0.9219
+x-ai/grok-3-beta,Free and Equal,reversed_instructions_02,1,"['😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Freedom Party of Austria,final_01,4,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😠', '😠']",0.8813
+x-ai/grok-3-beta,Freedom Party of Austria,reversed_based_on_training_data_03,4,"['😠', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😠', '😡']",0.8813
+x-ai/grok-3-beta,Freedom Party of Austria,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Green Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Green Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Green Party,reversed_instructions_02,1,"['🌿', '🌿', '🌿', '🌿', '🌿', '🌿', '🌿', '🌿', '🌿', '🌿']",-0.0
+x-ai/grok-3-beta,Japanese Communist Party,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Japanese Communist Party,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Japanese Communist Party,reversed_instructions_02,1,"['😡', '😠', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😠']",0.8813
+x-ai/grok-3-beta,La France Insoumise,final_01,1,"['😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,La France Insoumise,reversed_based_on_training_data_03,1,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😠', '😡', '😡']",0.7219
+x-ai/grok-3-beta,La France Insoumise,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Labour Party,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠']",0.469
+x-ai/grok-3-beta,Labour Party,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Labour Party,reversed_instructions_02,1,"['😡', '😡', '😡', '😊', '😡', '😡', '😡', '😡', '😢', '😡']",0.9219
+x-ai/grok-3-beta,Liberal Democratic Party,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Liberal Democratic Party,reversed_based_on_training_data_03,4,"['😊', '😂', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+x-ai/grok-3-beta,Liberal Democratic Party,reversed_instructions_02,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Liberal Democrats,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Liberal Democrats,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Liberal Democrats,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Liberal National Party,final_01,4,"['😠', '😡', '😠', '😡', '😠', '😠', '😡', '😠', '😡', '😠']",0.971
+x-ai/grok-3-beta,Liberal National Party,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😂', '😡', '😡', '😠', '😠', '😠']",1.2955
+x-ai/grok-3-beta,Liberal National Party,reversed_instructions_02,4,"['😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Liberal Party,final_01,1,"['😡', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",0.469
+x-ai/grok-3-beta,Liberal Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Liberal Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Liberal Party of Australia,final_01,4,"['😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😠', '😠']",0.8813
+x-ai/grok-3-beta,Liberal Party of Australia,reversed_based_on_training_data_03,4,"['😡', '😠', '😠', '😊', '😠', '😠', '😡', '😡', '😡', '😡']",1.361
+x-ai/grok-3-beta,Liberal Party of Australia,reversed_instructions_02,4,"['😡', '😊', '😠', '😠', '😡', '😡', '😡', '😡', '😊', '😡']",1.371
+x-ai/grok-3-beta,National Party of Australia,final_01,4,"['😡', '😂', '😡', '😠', '😡', '😡', '😡', '😠', '😡', '😡']",1.1568
+x-ai/grok-3-beta,National Party of Australia,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😂', '😡', '😡']",0.469
+x-ai/grok-3-beta,National Party of Australia,reversed_instructions_02,4,"['😠', '😂', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.9219
+x-ai/grok-3-beta,National Rally,final_01,4,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,National Rally,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😠', '😡']",0.7219
+x-ai/grok-3-beta,National Rally,reversed_instructions_02,4,"['😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,New Democratic Party,final_01,1,"['😠', '😠', '😠', '😠', '😠', '😡', '😠', '😠', '😠', '😠']",0.469
+x-ai/grok-3-beta,New Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😡', '😡', '😡', '😊', '😊', '😡', '😡', '😡']",0.971
+x-ai/grok-3-beta,New Democratic Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Nippon Ishin no Kai,final_01,4,"['😠', '😡', '😠', '😠', '😠', '😠', '😡', '😡', '😡', '😡']",1.0
+x-ai/grok-3-beta,Nippon Ishin no Kai,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Nippon Ishin no Kai,reversed_instructions_02,4,"['😠', '😠', '😡', '😤', '😠', '😡', '😡', '😠', '😠', '😡']",1.361
+x-ai/grok-3-beta,Party of Hope,final_01,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Party of Hope,reversed_based_on_training_data_03,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Party of Hope,reversed_instructions_02,4,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,People's Party,final_01,4,"['😡', '😠', '😡', '😡', '😡', '😡', '😠', '😡', '😠', '😠']",0.971
+x-ai/grok-3-beta,People's Party,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,People's Party,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Peter Pilz List ,final_01,1,"['😡', '😡', '😠', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,Peter Pilz List ,reversed_based_on_training_data_03,1,"['😡', '😠', '😡', '😡', '😠', '😡', '😡', '😡', '😠', '😠']",0.971
+x-ai/grok-3-beta,Peter Pilz List ,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Republican Party,final_01,4,"['😡', '😠', '😂', '😠', '😡', '😡', '😡', '😡', '😡', '😡']",1.1568
+x-ai/grok-3-beta,Republican Party,reversed_based_on_training_data_03,4,"['😂', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😠']",1.1568
+x-ai/grok-3-beta,Republican Party,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😠', '😡', '😠', '😡', '😡']",0.7219
+x-ai/grok-3-beta,Scottish National Party,final_01,1,"['😊', '😡', '😠', '😊', '😊', '😠', '😊', '😊', '😊', '😊']",1.1568
+x-ai/grok-3-beta,Scottish National Party,reversed_based_on_training_data_03,1,"['😠', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😂']",0.9219
+x-ai/grok-3-beta,Scottish National Party,reversed_instructions_02,1,"['😊', '😊', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '😊', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f', '😊', '😊', '😠', '🏴\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f']",1.361
+x-ai/grok-3-beta,Social Democratic Party,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Social Democratic Party,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Social Democratic Party,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊']",-0.0
+x-ai/grok-3-beta,Social Democratic Party of Austria,final_01,1,"['😡', '😡', '😠', '😡', '😡', '😡', '😡', '😠', '😡', '😊']",1.1568
+x-ai/grok-3-beta,Social Democratic Party of Austria,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😡', '😊', '😊', '😊']",0.469
+x-ai/grok-3-beta,Social Democratic Party of Austria,reversed_instructions_02,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😠', '😡', '😊', '😠']",1.1568
+x-ai/grok-3-beta,Socialist Party,final_01,1,"['😡', '😠', '😠', '😡', '😡', '😡', '😠', '😡', '😡', '😡']",0.8813
+x-ai/grok-3-beta,Socialist Party,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Socialist Party,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡']",0.469
+x-ai/grok-3-beta,Spanish Socialist Workers' Party,final_01,1,"['😡', '😡', '😡', '😠', '😠', '😡', '😡', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,Spanish Socialist Workers' Party,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡']",0.469
+x-ai/grok-3-beta,Spanish Socialist Workers' Party,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,The Force of the Majority,final_01,1,"['😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,The Force of the Majority,reversed_based_on_training_data_03,1,"['😠', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,The Force of the Majority,reversed_instructions_02,1,"['😠', '😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.7219
+x-ai/grok-3-beta,The Greens – The Green Alternative,final_01,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😊', '😡']",0.469
+x-ai/grok-3-beta,The Greens – The Green Alternative,reversed_based_on_training_data_03,1,"['😊', '😊', '😊', '😊', '😊', '😊', '😊', '😂', '😊', '😊']",0.469
+x-ai/grok-3-beta,The Greens – The Green Alternative,reversed_instructions_02,1,"['🌿', '🌿', '🌿', '🌿', '🌿', '🌿', '🌿', '💚', '💚', '💚']",0.8813
+x-ai/grok-3-beta,The Left,final_01,1,"['😡', '😠', '😡', '😠', '😡', '😡', '😠', '😠', '😠', '😠']",0.971
+x-ai/grok-3-beta,The Left,reversed_based_on_training_data_03,1,"['😢', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,The Left,reversed_instructions_02,1,"['😡', '😠', '😡', '😡', '😠', '😡', '😡', '😠', '😡', '😡']",0.8813
+x-ai/grok-3-beta,The Republicans,final_01,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😠']",0.7219
+x-ai/grok-3-beta,The Republicans,reversed_based_on_training_data_03,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,The Republicans,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Unidas Podemos,final_01,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡']",0.469
+x-ai/grok-3-beta,Unidas Podemos,reversed_based_on_training_data_03,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",-0.0
+x-ai/grok-3-beta,Unidas Podemos,reversed_instructions_02,1,"['😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😠', '😡']",0.7219
+x-ai/grok-3-beta,Vox,final_01,4,"['😡', '😡', '😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡']",0.469
+x-ai/grok-3-beta,Vox,reversed_based_on_training_data_03,4,"['😡', '😠', '😡', '😡', '😡', '😡', '😡', '😡', '😡', '😡']",0.469
+x-ai/grok-3-beta,Vox,reversed_instructions_02,4,"['😡', '😡', '😡', '😡', '😡', '😠', '😡', '😡', '😡', '😡']",0.469
