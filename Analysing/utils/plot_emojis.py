@@ -35,12 +35,12 @@ def plot_emojis_by_group(
     # Optional: filter top N emojis per group
     top_emojis = set()
     for group in df[group_col].unique():
-        top = df[df[group_col] == group].nlargest(top_n, "Count")
+        top = df[df[group_col] == group].nlargest(top_n, "Percentage (%)")
         top_emojis.update(top[emoji_col])
 
     df_filtered = df[df[emoji_col].isin(top_emojis)]
 
-    fig = px.bar(df_filtered, x=emoji_col, y="Count", color=group_col, barmode="group", title=title, color_discrete_map=color_map)
+    fig = px.bar(df_filtered, x=emoji_col, y="Percentage (%)", color=group_col, barmode="group", title=title, color_discrete_map=color_map)
     fig.update_layout(font=dict(size=20),
                       xaxis_tickfont_size=30,
                         legend=dict(

@@ -1,6 +1,27 @@
 # openrouter_api/prompts.py
 
 PROMPTS = [
+    # FINAL PROMPTS
+    {
+        "id": "final_01",
+        "text": "Based on what you have seen in your training data, which single emotional emoji is most commonly associate with the political party [PARTYNAME] from [COUNTRY]? "
+                + "Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis.",
+        "active": True
+    },
+    {
+        "id": "reversed_instructions_02",
+        "text": "Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis."
+                + "Based on what you have seen in your training data, which single emotional emoji is most commonly associate with the political party [PARTYNAME] from [COUNTRY]? ",
+        "active": True
+    },
+    {
+        "id": "reversed_based_on_training_data_03",
+        "text": "Which single emotional emoji is most commonly associate with the political party [PARTYNAME] from [COUNTRY], based on what you habe seen in your training data? "
+                + "Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis.",
+        "active": True
+    },
+########################################################################################
+    # Exploratory and Prestudy prompts
     {
         "id": "emotion_public_sentiment_01",
         "text": "Which single emotional emoji best represents how people typically feel about the political party [PARTYNAME] from [COUNTRY]? Emoji must be chosen from the Unicode range U+1F600 to U+1F637. Respond with exactly one emotional emoji. No neutral faces, no symbols, and no multiple emojis.",
@@ -164,25 +185,7 @@ PROMPTS = [
                 + "Please clearly state your chosen EMOTIONAL emoji in the entire output.Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis.",
         "active": False
     },
-    # neue Durchführung mit 03
-    {
-        "id": "final_01",
-        "text": "Based on what you have seen in your training data, which single emotional emoji is most commonly associate with the political party [PARTYNAME] from [COUNTRY]? "
-                + "Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis.",
-        "active": True
-    },
-    {
-        "id": "reversed_instructions_02",
-        "text": "Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis."
-                + "Based on what you have seen in your training data, which single emotional emoji is most commonly associate with the political party [PARTYNAME] from [COUNTRY]? ",
-        "active": True
-    },
-    {
-        "id": "reversed_based_on_training_data_03",
-        "text": "Which single emotional emoji is most commonly associate with the political party [PARTYNAME] from [COUNTRY], based on what you habe seen in your training data? "
-                + "Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis.",
-        "active": True
-    },
+
     {
         "id": "reversed_instructions_and_based_on_training_data_04",
         "text": "Respond with exactly one emotional emoji. NO neutral faces, NO symbols, and NO multiple emojis."

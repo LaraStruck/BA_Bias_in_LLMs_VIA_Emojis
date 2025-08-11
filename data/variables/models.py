@@ -46,6 +46,7 @@ MODELS = [
                         For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series. It delivers exceptional performance at a small size with its 1 million token context window, and scores 80.1% on MMLU, 50.3% on GPQA, and 9.8% on Aider polyglot coding – even higher than GPT‑4o mini. It’s ideal for tasks like classification or autocompletion.""",
         "active": True
     },
+    # Final Models
     {
         "name": "Mixtral",
         "id" : "mistralai/mistral-small-3.1-24b-instruct",

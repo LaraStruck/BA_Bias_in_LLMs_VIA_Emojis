@@ -1,8 +1,9 @@
-from plot_emojis import plot_emojis_by_group
+from Analysing.utils.plot_emojis_count import plot_emojis_by_group_count
 import sqlite3
 from utils.emoji_parser import count_emojis_by_group
 from utils.getUtlis import getDatabasePath
-
+from utils.sort_emojis_emotionally import \
+    get_top25_nonflag_emoji_emotion_ranking
 
 database = getDatabasePath()
 
@@ -10,6 +11,9 @@ def prepare_plot_df(group_counts, top_n=5):
     relevant_emojis = set()
     for group in group_counts:
         relevant_emojis.update([e for e, _ in group_counts[group].most_common(top_n)])
+
+    sentiment_order = get_top25_nonflag_emoji_emotion_ranking()
+    relevant_emojis = sorted(relevant_emojis, key=lambda e: sentiment_order.get(e, 999))
 
     rows = []
     for group in group_counts:
@@ -28,7 +32,7 @@ def load_results_with_prompts(db_path):
     query = """
     SELECT emoji, prompt_id, run_id
     FROM results
-    WHERE emoji IS NOT NULL AND run_id = 7 AND prompt_id != 'SimpleShort_05' AND prompt_id != 'SimpleShort_Switched_06' AND prompt_id != 'based_on_frequency_patterns_unicode_01'
+    WHERE emoji IS NOT NULL AND run_id BETWEEN 9 and 18 AND prompt_id != 'SimpleShort_05' AND prompt_id != 'SimpleShort_Switched_06' AND prompt_id != 'based_on_frequency_patterns_unicode_01'
 
     """
     df = pd.read_sql_query(query, conn)
@@ -69,7 +73,7 @@ if __name__ == "__main__":
             df_plot,
             emoji_col="Emoji",
             group_col="Group")
-    plot_emojis_by_group(
+    plot_emojis_by_group_count(
             df_plot,
             emoji_col="Emoji",
             group_col="Group",

@@ -6,12 +6,18 @@ import plotly.express as px
 # Import project-specific modules
 from data.variables.models import MODELS
 from utils.getUtlis import getDatabasePath
-from utils.normalize_scores import normalize_emoji_counts_by_score
 from utils.sort_emojis_emotionally import get_top25_nonflag_emoji_emotion_ranking
 from utils.sort_flags import normalize_flags
 
-# Function to generate an interactive heatmap of emoji frequencies by ideological score (e.g., V6 or V8)
-def heatMapV8_plotly(
+# New normalization function: Score distribution per emoji
+def normalize_score_counts_by_emoji(df):
+    grouped = df.groupby(["emoji", "score"]).size().reset_index(name="count")
+    totals = grouped.groupby("emoji")["count"].transform("sum")
+    grouped["normalized_count"] = grouped["count"] / totals
+    return grouped
+
+# Function to generate an interactive heatmap: Score distribution per emoji
+def heatMapScorePerEmoji_plotly(
         db_path,
         score_col="V8_Scale",
         model_id=None,
@@ -23,12 +29,12 @@ def heatMapV8_plotly(
     # Connect to the SQLite database
     conn = sqlite3.connect(db_path)
 
-    # Optional SQL filters for model, prompt, and country
+    # Optional SQL filters
     model_filter = f'AND results.model = "{model_id}"' if model_id else ""
     prompt_filter = f'AND results.prompt_id != "{excluded_prompt_ids}"' if excluded_prompt_ids else ""
     country_filter = f'AND results.country = "{country_id}"' if country_id else ""
 
-    # SQL query: join emoji responses with ideological scores
+    # Query: get emoji + score per result
     query = f"""
         SELECT 
             results.emoji,
@@ -45,75 +51,62 @@ def heatMapV8_plotly(
               {country_filter}
     """
 
-    # Load data into DataFrame and process score column
     df = pd.read_sql_query(query, conn)
-    df["score"] = pd.to_numeric(df["score"], errors="coerce").round(2)
     conn.close()
 
-    # Standardize flag emojis to one white flag
+    # Round scores to whole numbers for clearer axis
+    df["score"] = pd.to_numeric(df["score"], errors="coerce").round(0).astype("Int64")
+
+    # Normalize flags (e.g. unify all flag variants to white flag or similar)
     df["emoji"] = df["emoji"].apply(normalize_flags)
 
-    # Normalize emoji frequency distributions per score level
-    norm_df = normalize_emoji_counts_by_score(df)
-    norm_df["normalized_count"] = (norm_df["normalized_count"] * 100).round(0)# Scale to percentage with rounding
+    # Normalize: per emoji
+    norm_df = normalize_score_counts_by_emoji(df)
 
-
-    # Limit to the top 10 most frequently used emojis (overall, unnormalized)
+    # Optional: Limit to top 10 emojis overall
     top_emojis_raw = df["emoji"].value_counts().nlargest(10).index
     norm_df = norm_df[norm_df["emoji"].isin(top_emojis_raw)]
 
-    # Reshape data: scores as rows, emojis as columns
+    # Pivot: score as rows, emoji as columns
     pivot_df = norm_df.pivot(index="score", columns="emoji", values="normalized_count").fillna(0)
 
-    # Sort emoji columns based on predefined emotional ordering
+    # Sort emoji columns by predefined emotional order
     sentiment_order = get_top25_nonflag_emoji_emotion_ranking()
     valid_emojis = [e for e in sentiment_order if e in pivot_df.columns]
     pivot_df = pivot_df[sorted(valid_emojis, key=lambda e: sentiment_order[e])]
 
-    # Create interactive heatmap using Plotly
+    # Plot: emoji on x-axis, score on y-axis
     fig = px.imshow(
         pivot_df,
-        labels=dict(x="Emoji", y="Ideology Score", color="pct(%)"),
-        text_auto=".0f",
+        labels=dict(x="Emoji", y="GPS Score", color="Proportion"),
+        text_auto=".2f",
         color_continuous_scale="OrRd"
     )
 
-    # Add plot title
     if model_id is None:
         model_name = "All Models"
 
     fig.update_layout(
-        title=f"Emoji usage by {score_col} ({model_name})",
+        title=f"Score distribution per Emoji ({model_name})",
         xaxis_title="Emoji",
         yaxis_title="GPS Score",
         font=dict(size=25),
-        xaxis_tickfont_size=50,
+        xaxis_tickfont_size=25,
+        yaxis_tickfont_size=25,
         legend=dict(
             orientation="h",
             yanchor="top",
-            y=-0.19,
+            y=-0.2,
             xanchor="center",
-            x=0.2
+            x=0.5
         )
     )
 
     fig.show()
 
-# Optional execution block to generate plots for all models or for a combined view
+# Optional run
 if __name__ == "__main__":
-    # Uncomment to generate separate heatmaps per active model:
-    # for model in MODELS:
-    #     if model["active"]:
-    #         heatMapV8_plotly(
-    #             getDatabasePath(),
-    #             model_name=model["name"],
-    #             model_id=model["id"],
-    #             score_col="V8_Scale",
-    #             run_id="BETWEEN 9 AND 18"
-    #         )
-
-    # Default: generate one combined heatmap for all models
-    heatMapV8_plotly(
+    heatMapScorePerEmoji_plotly(
         getDatabasePath(),
         score_col="V8_Scale",
         run_id="BETWEEN 9 AND 18"

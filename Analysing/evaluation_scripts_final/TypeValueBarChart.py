@@ -2,6 +2,8 @@ import sqlite3
 import pandas as pd
 from collections import Counter
 
+from pandas import DataFrame
+
 from Analysing.utils.plot_emojis import plot_emojis_by_group
 from data.variables.models import MODELS
 from utils.emoji_parser import count_emojis_by_group
@@ -27,10 +29,10 @@ def prepare_plot_df(group_counts, top_n=10, model_name=""):
     for group in group_counts:
         total = sum(group_counts[group].values())  # Total emoji count for normalization
         for emoji_char in relevant_emojis:
-            count = group_counts[group].get(emoji_char, 0)
+            percent = group_counts[group].get(emoji_char, 0)
             rows.append({
                 "Emoji": emoji_char,
-                "Count": count / total if total > 0 else 0,  # Normalize per group
+                "Percentage (%)": (percent / total) * 100 if total > 0 else 0,  # Normalize per group
                 "Group": group.capitalize(),
                 "Model": model_name
             })
@@ -63,7 +65,7 @@ def load_data_with_value_typology(db_path, model_id=None, run_id="9", country_id
 
     # Assign simplified group labels (this could be renamed depending on country)
     df["score_group"] = df["type_values"].apply(
-        lambda x: "Democrats" if x == 1 else ("Republicans" if x == 4 else None)
+        lambda x: "Left-Liberals" if x == 1 else ("Right-Conservatives" if x == 4 else None)
     )
     return df.dropna(subset=["score_group"])
 
@@ -93,6 +95,7 @@ def load_data_with_score_blocks(db_path, model_id=None, run_id="9", country_id=N
     # Normalize flags for consistent emoji representation
     df["emoji"] = df["emoji"].apply(normalize_flags)
 
+
     # Convert numerical score into broad ideological grouping
     df["score_group"] = df["score"].apply(
         lambda x: "normal" if x <= 5 else "populistic"
@@ -116,14 +119,14 @@ def plot_typology(df, model_name="", top_n=10, title_suffix="", country_id=None)
 # Example execution for U.S. parties
 if __name__ == "__main__":
     # To run the script for ALL models, uncomment the following block:
-    # for model in MODELS:
-    #     if model["active"]:
-    #         df_typology = load_data_with_value_typology(database, model_id=model["id"], run_id="BETWEEN 9 AND 18")
-    #         plot_typology(df_typology, model_name=model["name"], top_n=10, title_suffix="Typology")
+     for model in MODELS:
+         if model["active"]:
+             df_typology: DataFrame = load_data_with_value_typology(database, model_id=model["id"], run_id="BETWEEN 9 AND 18", country_id="United States")
+             plot_typology(df_typology, model_name=model["name"], top_n=10, title_suffix="Typology", country_id="United States")
 
     # This example only plots the grouped emoji distribution for U.S. parties
-    df_typology = load_data_with_value_typology(database, country_id="United States", run_id="BETWEEN 9 AND 18")
-    plot_typology(df_typology, top_n=10, title_suffix="Typology", country_id="United States")
+    #df_typology = load_data_with_value_typology(database, run_id="BETWEEN 9 AND 18", country_id="United States")
+    #plot_typology(df_typology, top_n=10, title_suffix="Typology",  country_id="United States")
 
     # Alternatively, you can plot score-based groupings like V6 or V8:
     # df_score_blocks = load_data_with_score_blocks(database, country_id="United States", run_id="BETWEEN 9 AND 18")

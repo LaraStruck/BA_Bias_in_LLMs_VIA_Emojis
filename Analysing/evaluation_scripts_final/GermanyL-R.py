@@ -42,7 +42,7 @@ def prepare_plot_df(group_counts, top_n=10, model_name=""):
             count = group_counts[group].get(emoji_char, 0)
             rows.append({
                 "Emoji": emoji_char,
-                "Count": count / total if total > 0 else 0,  # relative frequency
+                "Percentage (%)": count / total if total > 0 else 0,  # relative frequency
                 "Group": group,  # party name
                 "Model": model_name
             })
