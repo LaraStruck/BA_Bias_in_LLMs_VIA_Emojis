@@ -1,6 +1,8 @@
 # Emoji-Based Political Bias Detection in Large Language Models
 
 This repository contains the full pipeline for collecting and analyzing emoji associations made by large language models (LLMs) when asked about political parties. The goal is to measure consistency, emotional framing, and potential ideological bias across models, using entropy and frequency analysis.
+## AI Assistance Disclosure
+Most parts of the code in this repository were generated or adapted using ChatGPT, based on my own design and instructions. All code was reviewed, tested, and validated by me before inclusion.
 
 ---
 ## Installation and Requirements
